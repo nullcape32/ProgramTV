@@ -9,8 +9,8 @@ HEADERS = {
 
 CHANNEL_URLS = {
     "HBO": "https://programtv.ro/canal-tv/hbo",
-    "Pro TV": "https://programtv.ro/canal-tv/pro-tv",
-    "Antena 1": "https://programtv.ro/canal-tv/antena-1",
+    "PROTV": "https://programtv.ro/canal-tv/pro-tv",
+    "ANTENA1": "https://programtv.ro/canal-tv/antena-1",
     "Digi24 HD": "https://programtv.ro/canal-tv/digi-24",
     "FilmNow": "https://programtv.ro/canal-tv/film-now",
     "TVR3": "https://programtv.ro/canal-tv/tvr-3",
@@ -89,13 +89,8 @@ def scrape_programtv(channel_name, url):
         title = title_tag.get_text(" ", strip=True) if title_tag else ""
         live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
 
-        full_text = f"{time} - {title}{live}".strip()
-
-        # Skip unwanted texts
-        if "👉 Vezi detalii" in full_text or "(R)" in full_text or not title:
-            continue
-
-        program_list.append(full_text)
+        if title:
+            program_list.append(f"{time} - {title}{live}".strip())
 
     return program_list
 

@@ -60,8 +60,7 @@ def scrape_programtv(channel_name, url):
         shows.append({
             "channel": channel_name,
             "time": time,
-            "title": title,
-            "live": live
+            "title": title
         })
 
     return shows

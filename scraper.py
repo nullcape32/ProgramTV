@@ -58,8 +58,6 @@ CHANNEL_URLS = {
     "MTV Europe": "https://programtv.ro/canal-tv/mtv-europe",
     "TVR Info": "https://programtv.ro/canal-tv/tvr-info",
     "Kiss TV": "https://programtv.ro/canal-tv/kiss-tv"
-
-
 }
 
 def scrape_programtv(channel_name, url):
@@ -72,7 +70,7 @@ def scrape_programtv(channel_name, url):
         return []
 
     soup = BeautifulSoup(response.text, "html.parser")
-    shows = []
+    program_list = []
 
     # Find the main container
     main_container = soup.find("div", class_="background-white")
@@ -80,7 +78,6 @@ def scrape_programtv(channel_name, url):
         print(f"⚠️ Could not find schedule container for {channel_name}")
         return []
 
-    # Each entry typically has a time (<p>) and a title (<h2>)
     entries = main_container.find_all("div", class_="d-flex justify-content-start")
 
     for entry in entries:
@@ -90,25 +87,32 @@ def scrape_programtv(channel_name, url):
 
         time = time_tag.get_text(strip=True) if time_tag else ""
         title = title_tag.get_text(" ", strip=True) if title_tag else ""
-        live = live_tag.get_text(strip=True) if live_tag else ""
+        live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
 
-        shows.append({
-            "channel": channel_name,
-            "time": time,
-            "title": title
-        })
+        full_text = f"{time} - {title}{live}".strip()
 
-    return shows
+        # Skip unwanted texts
+        if "👉 Vezi detalii" in full_text or "(R)" in full_text or not title:
+            continue
+
+        program_list.append(full_text)
+
+    return program_list
 
 
 def scrape_all_channels(channel_urls):
-    """Scrape all given channels"""
-    all_shows = []
+    """Scrape all channels and format output for JSON"""
+    all_channels = []
+
     for name, url in channel_urls.items():
         print(f"🔎 Scraping {name}...")
-        shows = scrape_programtv(name, url)
-        all_shows.extend(shows)
-    return all_shows
+        program = scrape_programtv(name, url)
+        all_channels.append({
+            "tv_channel": name,
+            "tv_program": program
+        })
+
+    return all_channels
 
 
 def save_to_json(data, filename="programtv_schedule.json"):
@@ -120,7 +124,7 @@ def save_to_json(data, filename="programtv_schedule.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ Saved {len(data)} shows to {filename}")
+    print(f"✅ Saved schedule for {len(data)} channels to {filename}")
 
 
 if __name__ == "__main__":

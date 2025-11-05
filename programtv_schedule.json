@@ -37,7 +37,7 @@
     {
         "channel": "HBO",
         "time": "20:00",
-        "title": "Arme  - Arme ACUM"
+        "title": "Arme  - Arme"
     },
     {
         "channel": "HBO",
@@ -47,7 +47,7 @@
     {
         "channel": "HBO",
         "time": "23:10",
-        "title": "The Pitt: Spitalul Sezonul 1 - Episodul 13  - The Pitt: Spitalul - Ep. 13: 19:00"
+        "title": "The Pitt: Spitalul Sezonul 1 - Episodul 13  - The Pitt: Spitalul - Ep. 13: 19:00 ACUM"
     },
     {
         "channel": "HBO",
@@ -112,12 +112,12 @@
     {
         "channel": "Pro TV",
         "time": "20:30",
-        "title": "Las fierbinți ACUM 👉 Vezi detalii"
+        "title": "Las fierbinți 👉 Vezi detalii"
     },
     {
         "channel": "Pro TV",
         "time": "21:30",
-        "title": "Trădătorii"
+        "title": "Trădătorii ACUM"
     },
     {
         "channel": "Pro TV",
@@ -205,67 +205,67 @@
         "title": "Observator                                                 - Sport/Meteo/IQ Financiar"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "07:00",
         "title": "Digimatinal"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "09:00",
         "title": "Știrile dimineții"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "12:00",
         "title": "Știrile amiezii"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "15:00",
         "title": "Studio politic"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "16:00",
         "title": "Știrile zilei"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "19:00",
         "title": "Business Club"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "19:50",
         "title": "Știri sport"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "20:00",
-        "title": "Editie speciala                                                 - cu Claudiu Pandaru ACUM"
+        "title": "Editie speciala                                                 - cu Claudiu Pandaru"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "23:00",
-        "title": "Știrile serii"
+        "title": "Știrile serii ACUM"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "01:00",
         "title": "Editie speciala                                     (R)"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "04:00",
         "title": "Studio politic                                     (R)"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "05:00",
         "title": "Business Club                                     (R)"
     },
     {
-        "channel": "Digi24",
+        "channel": "Digi24 HD",
         "time": "05:50",
         "title": "Stirile diminetii"
     },
@@ -307,12 +307,12 @@
     {
         "channel": "FilmNow",
         "time": "20:00",
-        "title": "Joc periculos ACUM"
+        "title": "Joc periculos"
     },
     {
         "channel": "FilmNow",
         "time": "21:35",
-        "title": "Zi de instrucție"
+        "title": "Zi de instrucție ACUM"
     },
     {
         "channel": "FilmNow",
@@ -462,7 +462,7 @@
     {
         "channel": "TVR3",
         "time": "20:00",
-        "title": "TV Retro ACUM"
+        "title": "TV Retro"
     },
     {
         "channel": "TVR3",
@@ -472,7 +472,7 @@
     {
         "channel": "TVR3",
         "time": "22:00",
-        "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor"
+        "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor ACUM"
     },
     {
         "channel": "TVR3",
@@ -587,7 +587,7 @@
     {
         "channel": "BBC Earth",
         "time": "20:00",
-        "title": "Sub zero grade                        Sezonul 12 - Episodul 7  - Return of the Herd ACUM"
+        "title": "Sub zero grade                        Sezonul 12 - Episodul 7  - Return of the Herd"
     },
     {
         "channel": "BBC Earth",
@@ -602,7 +602,7 @@
     {
         "channel": "BBC Earth",
         "time": "23:10",
-        "title": "Pescuit imposibil                        Sezonul 1 - Episodul 1  - Kenya"
+        "title": "Pescuit imposibil                        Sezonul 1 - Episodul 1  - Kenya ACUM"
     },
     {
         "channel": "BBC Earth",
@@ -942,7 +942,7 @@
     {
         "channel": "Cartoon Network",
         "time": "20:30",
-        "title": "Haideți tineri titani! ACUM"
+        "title": "Haideți tineri titani!"
     },
     {
         "channel": "Cartoon Network",
@@ -997,7 +997,7 @@
     {
         "channel": "Cartoon Network",
         "time": "23:05",
-        "title": "Să-nceapă aventura!"
+        "title": "Să-nceapă aventura! ACUM"
     },
     {
         "channel": "Cartoon Network",
@@ -1175,141 +1175,6 @@
         "title": "Uimitoarea lume a lui Gumball AG"
     },
     {
-        "channel": "Kanal D",
-        "time": "07:00",
-        "title": "Infidelul  (R)"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "08:00",
-        "title": "Follow us"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "10:00",
-        "title": "Casa iubirii"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "12:00",
-        "title": "Știrile Kanal D"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "13:00",
-        "title": "În căutarea adevărului AP"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "15:00",
-        "title": "Jocul cuvintelor cu Dan Negru AP"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "16:30",
-        "title": "Casa iubirii"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "19:00",
-        "title": "Știrile Kanal D"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "20:00",
-        "title": "Fata de la fereastră ACUM"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "22:45",
-        "title": "Eu cu cine rămân?                                     (R)"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "00:45",
-        "title": "Casa iubirii                                     (R)"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "05:30",
-        "title": "Știrile Kanal D                                     (R)"
-    },
-    {
-        "channel": "Kanal D",
-        "time": "06:00",
-        "title": "Infidelul"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "08:00",
-        "title": "Meniu de vedetă"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "08:30",
-        "title": "Mireasa - Capriciile Iubirii                                     (R)"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "11:00",
-        "title": "Știrile Antena Stars"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "12:30",
-        "title": "Mireasa"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "13:30",
-        "title": "Viaţa Fără Filtru"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "16:00",
-        "title": "Acces direct"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "19:00",
-        "title": "Mireasa - Capriciile Iubirii ACUM"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "21:30",
-        "title": "SPYNEWS TV LIVE"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "22:30",
-        "title": "Un show păcătos"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "01:00",
-        "title": "Acces direct                                     (R)"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "03:45",
-        "title": "Spynews Tv Live                                     (R)"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "04:30",
-        "title": "Știrile Antena Stars                                     (R)"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "05:45",
-        "title": "Teleshopping"
-    },
-    {
-        "channel": "Antena Stars",
-        "time": "06:00",
-        "title": "Viaţa Fără Filtru                                     (R)"
-    },
-    {
         "channel": "Antena 3",
         "time": "07:00",
         "title": "Ştiri"
@@ -1392,7 +1257,7 @@
     {
         "channel": "Antena 3",
         "time": "20:00",
-        "title": "Subiectiv ACUM"
+        "title": "Subiectiv"
     },
     {
         "channel": "Antena 3",
@@ -1412,7 +1277,7 @@
     {
         "channel": "Antena 3",
         "time": "23:00",
-        "title": "Sinteza zilei"
+        "title": "Sinteza zilei ACUM"
     },
     {
         "channel": "Antena 3",
@@ -1687,7 +1552,7 @@
     {
         "channel": "EuroNews",
         "time": "20:29",
-        "title": "News ACUM"
+        "title": "News"
     },
     {
         "channel": "EuroNews",
@@ -1742,7 +1607,7 @@
     {
         "channel": "EuroNews",
         "time": "23:15",
-        "title": "The European debrief"
+        "title": "The European debrief ACUM"
     },
     {
         "channel": "EuroNews",
@@ -1861,342 +1726,3982 @@
     },
     {
         "channel": "Prima Sport1",
-        "time": "07:00",
-        "title": "Kite masters 2019/2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "07:30",
-        "title": "Kite masters 2019/2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "08:00",
-        "title": "Speed catamarans gc32 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "08:30",
-        "title": "Speed catamarans gc32 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "09:00",
-        "title": "Sports max"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "09:45",
-        "title": "Andalucia bike race 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "10:00",
-        "title": "Rolex new york yacht club invitational cup"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "10:30",
-        "title": "Rolex new york yacht club invitational cup"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "11:00",
-        "title": "Better than four ep. 11"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "11:30",
-        "title": "Better than four ep. 12"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "12:00",
-        "title": "Racemax motorsports"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "12:30",
-        "title": "Racemax motorsports"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "13:00",
-        "title": "World of watersports"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "13:45",
-        "title": "Andalucia bike race 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "14:00",
-        "title": "World of freesports 2021"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "14:30",
-        "title": "World of freesports 2021"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "15:00",
-        "title": "Gp racing 2022"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "15:30",
-        "title": "Gp racing 2022"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "16:00",
-        "title": "Sailing to tokyo 2019/2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "16:30",
-        "title": "Sailing to tokyo 2019/2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "17:00",
-        "title": "Hankook 24h series 2022"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "18:00",
-        "title": "Autospeed 2022"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "18:30",
-        "title": "Autospeed 2022"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "19:00",
-        "title": "Board stories surfing"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "19:30",
-        "title": "Board stories surfing"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "20:00",
-        "title": "Supercar tv"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "20:30",
-        "title": "Supercar tv"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "21:00",
-        "title": "The electric future"
-    },
-    {
-        "channel": "Prima Sport1",
         "time": "22:00",
-        "title": "Boat show 4k - s6"
+        "title": "Marseille - Atalanta ACUM"
     },
     {
-        "channel": "Prima Sport1",
-        "time": "22:30",
-        "title": "Boat show 4k - s6"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "23:00",
-        "title": "Fia pure motorsport 2021"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "23:30",
-        "title": "Fia pure motorsport 2021"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "00:00",
-        "title": "Gearing up 2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "00:30",
-        "title": "Gearing up 2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "01:00",
-        "title": "Inside sailing 2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "01:30",
-        "title": "Inside sailing 2020"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "02:00",
-        "title": "Cape epic 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "02:30",
-        "title": "Cape epic 2019"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "03:00",
-        "title": "The electric future"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "04:00",
-        "title": "Board stories surfing"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "04:30",
-        "title": "Board stories surfing"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "05:00",
-        "title": "Supercar tv"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "05:30",
-        "title": "Supercar tv"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "06:00",
-        "title": "Sports max"
-    },
-    {
-        "channel": "Prima Sport1",
-        "time": "06:45",
-        "title": "Andalucia bike race 2019 ACUM"
-    },
-    {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "07:00",
-        "title": "Ştirile România TV"
+        "title": "Telejurnal matinal"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "07:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR1",
         "time": "08:00",
-        "title": "Ştirile România TV"
+        "title": "Telejurnal matinal"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "08:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR1",
         "time": "09:00",
-        "title": "Ştirile România TV"
+        "title": "Oamenii şi legea"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "10:00",
-        "title": "Ştirile România TV"
+        "title": "Agrostrategia"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "11:00",
-        "title": "Ştirile Romania TV"
+        "title": "Câştigă România!                                     (R)"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "12:00",
-        "title": "Ştirile România TV"
+        "title": "Teleshopping"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "13:00",
-        "title": "Ştirile România TV"
+        "channel": "TVR1",
+        "time": "12:15",
+        "title": "Tribuna partidelor parlamentare"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "12:45",
+        "title": "Gyebaek: Destinul unui războinic  (R)"
+    },
+    {
+        "channel": "TVR1",
         "time": "14:00",
-        "title": "Ştirile România TV"
+        "title": "Telejurnal"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "14:55",
+        "title": "Vorbeşte corect!"
+    },
+    {
+        "channel": "TVR1",
         "time": "15:00",
-        "title": "Ştirile România TV"
+        "title": "Convieţuiri AG"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "16:00",
-        "title": "Ştirile România TV"
+        "channel": "TVR1",
+        "time": "15:55",
+        "title": "Convieţuiri AG"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "16:50",
+        "title": "Zi de zi cu părintele Constantin Necula"
+    },
+    {
+        "channel": "TVR1",
         "time": "17:00",
-        "title": "Cheia zilei"
+        "title": "Gyebaek: Destinul unui războinic"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "18:00",
-        "title": "Ştirile România TV"
+        "channel": "TVR1",
+        "time": "18:30",
+        "title": "Punctul critic"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "19:00",
-        "title": "Ultima oră"
+        "channel": "TVR1",
+        "time": "19:45",
+        "title": "Sport AG"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "20:00",
-        "title": "România la raport ACUM"
+        "title": "Telejurnal"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "20:55",
+        "title": "Meteo"
+    },
+    {
+        "channel": "TVR1",
         "time": "21:00",
-        "title": "Punctul culminant"
+        "title": "Câştigă România!"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "23:00",
-        "title": "Ştirile România TV"
+        "channel": "TVR1",
+        "time": "22:00",
+        "title": "Departamentul Q: Camera groazei ACUM"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "00:00",
-        "title": "Ştirile România TV"
+        "channel": "TVR1",
+        "time": "00:05",
+        "title": "Câştigă România!                                     (R)"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "01:00",
-        "title": "Punctul culminant                                     (R)"
+        "channel": "TVR1",
+        "time": "01:05",
+        "title": "Punctul critic                                     (R)"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "02:00",
-        "title": "Punctul culminant                                     (R)"
+        "channel": "TVR1",
+        "time": "02:20",
+        "title": "Vii sau preferabil morţi  (R)"
     },
     {
-        "channel": "RomaniaTV",
-        "time": "03:00",
-        "title": "Ultima ora                                     (R)"
-    },
-    {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
         "time": "04:00",
-        "title": "România la raport                                     (R)"
+        "title": "Sport                                     (R)"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "04:10",
+        "title": "Telejurnal                                     (R)"
+    },
+    {
+        "channel": "TVR1",
         "time": "05:00",
-        "title": "Ştirile România TV                                     (R)"
+        "title": "Meteo                                     (R)"
     },
     {
-        "channel": "RomaniaTV",
+        "channel": "TVR1",
+        "time": "05:05",
+        "title": "Agrostrategia                                     (R)"
+    },
+    {
+        "channel": "TVR1",
+        "time": "05:55",
+        "title": "Imnul  României"
+    },
+    {
+        "channel": "TVR1",
         "time": "06:00",
-        "title": "Ştirile România TV"
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "07:00",
+        "title": "Martor la dezastru                                                 - Avalanșă pe Everest"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "08:00",
+        "title": "Martor la dezastru                                                 - Pierduți în Triunghiul Bermudelor"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "09:00",
+        "title": "Salvatori pe drumuri înghețate                                                 - Ruleta off-road"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "10:00",
+        "title": "Salvatori pe drumuri înghețate                                                 - Către pericol"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "11:00",
+        "title": "Dezastre descifrate                                                 - Pe aer, pe uscat și pe mare"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "12:00",
+        "title": "Traficanți                                                 - Marfă verde pentru Regat"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "13:00",
+        "title": "Traficanți                                                 - Armele au luat-o razna!"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "14:00",
+        "title": "Traficanți                                                 - Botox și cocaină"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "15:00",
+        "title": "Dezastre în aer                                                 - Pierderea unei legende"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "16:00",
+        "title": "Dezastre în aer                                                 - Catastrofă în cabină"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "17:00",
+        "title": "Prognoze îngrijorătoare                                                 - Fulgere"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "18:00",
+        "title": "Aeroportul din Melbourne                                                 - Sub presiune"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "19:00",
+        "title": "Salvatori pe drumuri înghețate                                                 - Noapte bântuită"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "20:00",
+        "title": "Dezastre investigate                                                 - Fabrica de zahăr, accident feroviar la Lac-Megantic, Canalul Suez"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "21:00",
+        "title": "Decodarea pericolului                                                 - Episodul 4"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "22:00",
+        "title": "Inginerie dezastruoasă                                                 - Episodul 1"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "23:00",
+        "title": "Clipe de coşmar                                                 - Mogadiscio 1993 ACUM"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "00:00",
+        "title": "Dezastre în aer                                                 - Boeing contra Cessna"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "01:00",
+        "title": "Climă virală                                                 - Șoc și uimire"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "02:00",
+        "title": "Inginerie abandonată                                                 - Adevărata cruce"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "03:00",
+        "title": "S.O.S. Mașini clasice                                                 - VW T4 Campervan"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "04:00",
+        "title": "Ilegal cu Mariana van Zeller                                                 - LSD"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "05:00",
+        "title": "Aeroportul din Melbourne                                                 - Sub presiune"
+    },
+    {
+        "channel": "National Geographic",
+        "time": "06:00",
+        "title": "Dezastre în aer                                                 - Dovezi explozive"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "08:30",
+        "title": "Snooker: Campionatul Internațional - Turul al treilea                                                 - Snooker: Campionatul Internațional - Turul al treilea"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "12:00",
+        "title": "Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin                                                 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "12:45",
+        "title": "Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin                                                 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "13:30",
+        "title": "Snooker: Campionatul Internațional - Turul al treilea                                                 - Snooker: Campionatul Internațional - Turul al treilea"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "17:00",
+        "title": "Anduranță Auto - Campionatul Mondial: Racing for Excellence                                                 - Anduranță Auto - Campionatul Mondial: Racing for Excellence"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "17:30",
+        "title": "Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo                                                 - Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "20:00",
+        "title": "Echitație: Sărituri peste obstacole - Lyon                                                 - Echitație: Sărituri peste obstacole - Lyon"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "21:00",
+        "title": "Snooker: Campionatul Internațional - Turul al treilea                                                 - Snooker: Campionatul Internațional - Turul al treilea"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "23:00",
+        "title": "Anduranță Auto - Campionatul Mondial: Racing for Excellence                                                 - Anduranță Auto - Campionatul Mondial: Racing for Excellence ACUM"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "23:30",
+        "title": "Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo                                                 - Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "01:00",
+        "title": "Snooker: Campionatul Internațional - Turul al treilea                                                 - Snooker: Campionatul Internațional - Turul al treilea"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "03:00",
+        "title": "Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo                                                 - Anduranță auto: FIA WEC - Cursa de 6 ore de la Sao Paulo"
+    },
+    {
+        "channel": "Euro Sport 1",
+        "time": "06:00",
+        "title": "Snooker: Campionatul Internațional - Turul al treilea                                                 - Snooker: Campionatul Internațional - Turul al treilea"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "08:15",
+        "title": "Iubirea ni s-a întâmplat                                     (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "10:15",
+        "title": "La bloc  (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "12:30",
+        "title": "Fiul lui Rambow  (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "14:30",
+        "title": "Afurisitul de telefon!"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "16:30",
+        "title": "În rolul lui Cupidon"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "18:15",
+        "title": "La bloc"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "20:30",
+        "title": "The Gunman. Pe viață și pe moarte"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "22:45",
+        "title": "În locul nepotrivit ACUM"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "00:45",
+        "title": "The Gunman. Pe viață și pe moarte  (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "03:00",
+        "title": "La Maruţă                                     (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "04:45",
+        "title": "La bloc  (R)"
+    },
+    {
+        "channel": "Pro Cinema",
+        "time": "05:45",
+        "title": "La Maruţă                                     (R)"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "07:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "07:20",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "07:40",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "08:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "08:20",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "08:40",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "09:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "09:20",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "09:40",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "10:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "10:15",
+        "title": "Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "11:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "11:15",
+        "title": "Digi Sport Special"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "12:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "12:15",
+        "title": "Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "13:00",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "13:15",
+        "title": "Champions League: Rezumate Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "14:15",
+        "title": "LIVE Liga a 2-a: Rezumatele Etapei Etapa 16"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "14:30",
+        "title": "LIVE Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "15:00",
+        "title": "LIVE Liga Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "16:30",
+        "title": "LIVE Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "17:00",
+        "title": "LIVE Fotbal Club"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "18:30",
+        "title": "LIVE Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "19:00",
+        "title": "LIVE Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "19:45",
+        "title": "LIVE Champions League: Qarabag-Chelsea Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "20:30",
+        "title": "LIVE Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "20:45",
+        "title": "LIVE Champions League: Qarabag-Chelsea Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "21:45",
+        "title": "LIVE Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "22:00",
+        "title": "LIVE Champions League: Club Brugge-Barcelona Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "22:45",
+        "title": "LIVE Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "23:00",
+        "title": "LIVE Champions League: Club Brugge-Barcelona Etapa 4 ACUM"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "00:00",
+        "title": "LIVE Euro Fotbal"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "01:00",
+        "title": "Premiera Champions League: Rezumate Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "02:00",
+        "title": "Liga a 2-a: Rezumatele Etapei Etapa 12"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "02:30",
+        "title": "Stirile Digi Sport"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "02:45",
+        "title": "Fotbal Club"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "03:30",
+        "title": "Champions League: Club Brugge-Barcelona Etapa 4"
+    },
+    {
+        "channel": "Digi Sport",
+        "time": "05:15",
+        "title": "Euro Fotbal"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "07:00",
+        "title": "Exclusiv VIP                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "09:00",
+        "title": "Iubiri secrete  (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "10:15",
+        "title": "50/50                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "11:00",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "13:10",
+        "title": "Sinu, râul pasiunilor"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "14:00",
+        "title": "Focus"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "16:00",
+        "title": "Exclusiv VIP"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "18:00",
+        "title": "Focus 18"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "19:15",
+        "title": "50/50"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "20:00",
+        "title": "Cronica cârcotaşilor                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "22:00",
+        "title": "Focus"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "23:00",
+        "title": "50/50                                     (R) ACUM"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "23:30",
+        "title": "Exclusiv VIP                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "01:30",
+        "title": "Cronica cârcotaşilor                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "03:30",
+        "title": "Flash monden                                     (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "04:00",
+        "title": "Iubiri secrete  (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "05:00",
+        "title": "Sinu, râul pasiunilor  (R)"
+    },
+    {
+        "channel": "Prima TV",
+        "time": "06:00",
+        "title": "Focus                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "07:00",
+        "title": "Cap compas                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "07:30",
+        "title": "Documentar 360° Geo                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "08:30",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR2",
+        "time": "08:45",
+        "title": "Portrete \"Omul Anului\""
+    },
+    {
+        "channel": "TVR2",
+        "time": "09:00",
+        "title": "Generaţia Fit"
+    },
+    {
+        "channel": "TVR2",
+        "time": "09:30",
+        "title": "România... în bucate                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "10:00",
+        "title": "Eduarte Arteen"
+    },
+    {
+        "channel": "TVR2",
+        "time": "11:00",
+        "title": "Grădini de vis: geometrie, artă, viaţă"
+    },
+    {
+        "channel": "TVR2",
+        "time": "11:30",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR2",
+        "time": "12:00",
+        "title": "Telejurnal TVR 2"
+    },
+    {
+        "channel": "TVR2",
+        "time": "12:35",
+        "title": "Meteo                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "12:40",
+        "title": "Sport AG"
+    },
+    {
+        "channel": "TVR2",
+        "time": "13:00",
+        "title": "Cultura minorităţilor"
+    },
+    {
+        "channel": "TVR2",
+        "time": "13:30",
+        "title": "Magazin Deutsche Welle"
+    },
+    {
+        "channel": "TVR2",
+        "time": "14:00",
+        "title": "Documentar 360° Geo"
+    },
+    {
+        "channel": "TVR2",
+        "time": "15:00",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR2",
+        "time": "15:15",
+        "title": "Comisarul Rex  (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "16:05",
+        "title": "Educatia la putere                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "17:00",
+        "title": "Grădini de vis: geometrie, artă, viaţă"
+    },
+    {
+        "channel": "TVR2",
+        "time": "17:30",
+        "title": "România... în bucate"
+    },
+    {
+        "channel": "TVR2",
+        "time": "18:00",
+        "title": "Ora de ştiri"
+    },
+    {
+        "channel": "TVR2",
+        "time": "18:40",
+        "title": "Sport AG"
+    },
+    {
+        "channel": "TVR2",
+        "time": "18:50",
+        "title": "E vremea ta!"
+    },
+    {
+        "channel": "TVR2",
+        "time": "19:05",
+        "title": "Comisarul Rex"
+    },
+    {
+        "channel": "TVR2",
+        "time": "20:05",
+        "title": "Hai Hui cu Marina"
+    },
+    {
+        "channel": "TVR2",
+        "time": "21:05",
+        "title": "Cursa prin istorie"
+    },
+    {
+        "channel": "TVR2",
+        "time": "22:05",
+        "title": "Legendele Olimpului"
+    },
+    {
+        "channel": "TVR2",
+        "time": "22:40",
+        "title": "Romanian Creative Week Bucharest                                     (R) ACUM"
+    },
+    {
+        "channel": "TVR2",
+        "time": "23:45",
+        "title": "Magazin Deutsche Welle                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "00:20",
+        "title": "Drag de România mea!                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "02:15",
+        "title": "Ora de ştiri                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "02:50",
+        "title": "Sport                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "02:55",
+        "title": "E vremea ta!"
+    },
+    {
+        "channel": "TVR2",
+        "time": "03:10",
+        "title": "Eduarte Arteen                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "04:00",
+        "title": "Legendele Olimpului                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "04:30",
+        "title": "Destine ca-n filme                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "05:20",
+        "title": "Educatia la putere                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "06:10",
+        "title": "E vremea ta!                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "06:25",
+        "title": "Sport                                     (R)"
+    },
+    {
+        "channel": "TVR2",
+        "time": "06:40",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR2",
+        "time": "06:55",
+        "title": "Imnul  României"
+    },
+    {
+        "channel": "HBO2",
+        "time": "07:00",
+        "title": "Omul-Păianjen: În lumea păianjenului  - Omul-Păianjen: În lumea păianjenului"
+    },
+    {
+        "channel": "HBO2",
+        "time": "08:53",
+        "title": "Albă ca Zăpada și Războinicul Vânător  - Albă ca Zăpada și Războinicul Vânător"
+    },
+    {
+        "channel": "HBO2",
+        "time": "10:55",
+        "title": "Probleme de familie  - Goodrich"
+    },
+    {
+        "channel": "HBO2",
+        "time": "12:42",
+        "title": "Prietenii tăi Sezonul 3 - Episodul 4  - Prietenii tăi - III, Ep. 4: Cel cu tunelul metaforic"
+    },
+    {
+        "channel": "HBO2",
+        "time": "13:04",
+        "title": "Prietenii tăi Sezonul 3 - Episodul 5  - Prietenii tăi - III, Ep. 5: Cel cu Frank Jr."
+    },
+    {
+        "channel": "HBO2",
+        "time": "13:26",
+        "title": "Campioni  - Campioni"
+    },
+    {
+        "channel": "HBO2",
+        "time": "15:26",
+        "title": "Războinicul Vânător și Crăiasa Zăpezii  - Războinicul Vânător și Crăiasa Zăpezii"
+    },
+    {
+        "channel": "HBO2",
+        "time": "17:17",
+        "title": "Familia Addams 2  - Familia Addams 2"
+    },
+    {
+        "channel": "HBO2",
+        "time": "18:47",
+        "title": "Totul pe jumătate  - Totul pe jumătate"
+    },
+    {
+        "channel": "HBO2",
+        "time": "20:36",
+        "title": "Epoca de Aur Sezonul 3 - Episodul 3  - Epoca de Aur - III, Ep. 3: Iubirea nu e ușoară"
+    },
+    {
+        "channel": "HBO2",
+        "time": "21:32",
+        "title": "Epoca de Aur Sezonul 3 - Episodul 4  - Epoca de Aur - III, Ep. 4: Căsnicia e un joc de noroc"
+    },
+    {
+        "channel": "HBO2",
+        "time": "22:30",
+        "title": "Manipulată de soțul meu: Povestea lui Morgan Metzer  - Manipulată de soțul meu: Povestea lui Morgan Metzer ACUM"
+    },
+    {
+        "channel": "HBO2",
+        "time": "23:55",
+        "title": "Târâtă în iad  - Târâtã în iad"
+    },
+    {
+        "channel": "HBO2",
+        "time": "01:30",
+        "title": "Camera roșie  - Camera roșie"
+    },
+    {
+        "channel": "HBO2",
+        "time": "03:24",
+        "title": "Interviul  - Interviul"
+    },
+    {
+        "channel": "HBO2",
+        "time": "05:13",
+        "title": "De-a lungul nopții  - De-a lungul nopții"
+    },
+    {
+        "channel": "History",
+        "time": "07:20",
+        "title": "Securitatea graniței                                                 - episodul 1"
+    },
+    {
+        "channel": "History",
+        "time": "07:50",
+        "title": "Vânătorii de chilipiruri                                                 - Ton la rodeo"
+    },
+    {
+        "channel": "History",
+        "time": "08:15",
+        "title": "Vânătorii de chilipiruri                                                 - Împușcături la Sin City"
+    },
+    {
+        "channel": "History",
+        "time": "08:45",
+        "title": "Vânătorii de chilipiruri                                                 - Trăiască Las Vegas"
+    },
+    {
+        "channel": "History",
+        "time": "09:10",
+        "title": "Vânătorii de chilipiruri                                                 - Cerneală la licitație"
+    },
+    {
+        "channel": "History",
+        "time": "09:40",
+        "title": "Case vechi readuse la viaţă                                                 - Harding"
+    },
+    {
+        "channel": "History",
+        "time": "10:35",
+        "title": "Pe urmele antichităţilor                                                 - Găselnițe din Texas"
+    },
+    {
+        "channel": "History",
+        "time": "11:30",
+        "title": "Războiul depozitelor: Texas                                                 - Bubba-pocalipsa"
+    },
+    {
+        "channel": "History",
+        "time": "11:55",
+        "title": "Războiul depozitelor: Texas                                                 - Zombii de la Ponder"
+    },
+    {
+        "channel": "History",
+        "time": "12:25",
+        "title": "Războiul depozitelor: Texas                                                 - Jenny le duce pe toate"
+    },
+    {
+        "channel": "History",
+        "time": "12:55",
+        "title": "Războiul depozitelor: Texas                                                 - Ciudățeniile de la Austin"
+    },
+    {
+        "channel": "History",
+        "time": "13:25",
+        "title": "Războiul depozitelor: Texas                                                 - Depozitul de piñate"
+    },
+    {
+        "channel": "History",
+        "time": "13:55",
+        "title": "Securitatea graniței: Australia                                                 - episodul 3"
+    },
+    {
+        "channel": "History",
+        "time": "14:20",
+        "title": "Securitatea graniței: Australia                                                 - episodul 4"
+    },
+    {
+        "channel": "History",
+        "time": "14:50",
+        "title": "Securitatea graniței: Australia                                                 - episodul 5"
+    },
+    {
+        "channel": "History",
+        "time": "15:15",
+        "title": "Securitatea graniței: Australia                                                 - episodul 6"
+    },
+    {
+        "channel": "History",
+        "time": "15:45",
+        "title": "Securitatea graniței: Australia                                                 - episodul 7"
+    },
+    {
+        "channel": "History",
+        "time": "16:10",
+        "title": "Aşii amanetului                                                 - Nebunul care amanetează"
+    },
+    {
+        "channel": "History",
+        "time": "17:10",
+        "title": "Pe urmele antichităţilor                                                 - Marele Razooly"
+    },
+    {
+        "channel": "History",
+        "time": "18:05",
+        "title": "Pe urmele antichităţilor                                                 - Un DeLorean de bricolaj"
+    },
+    {
+        "channel": "History",
+        "time": "19:05",
+        "title": "Aşii amanetului                                                 - Rebeliunea Rick-Sy"
+    },
+    {
+        "channel": "History",
+        "time": "20:00",
+        "title": "Filmat la tribunal                                                 - episodul 7"
+    },
+    {
+        "channel": "History",
+        "time": "20:30",
+        "title": "Filmat la tribunal                                                 - episodul 9"
+    },
+    {
+        "channel": "History",
+        "time": "21:00",
+        "title": "Misiuni de commando                                                 - Operațiunea Heraklion"
+    },
+    {
+        "channel": "History",
+        "time": "22:00",
+        "title": "Războiul cel mare                                                 - În iad ACUM"
+    },
+    {
+        "channel": "History",
+        "time": "23:55",
+        "title": "Pe urmele antichităţilor                                                 - Marele Razooly"
+    },
+    {
+        "channel": "History",
+        "time": "00:50",
+        "title": "Vânătorii de chilipiruri                                                 - Trăiască Las Vegas"
+    },
+    {
+        "channel": "History",
+        "time": "01:15",
+        "title": "Vânătorii de chilipiruri                                                 - Cerneală la licitație"
+    },
+    {
+        "channel": "History",
+        "time": "01:45",
+        "title": "Case vechi readuse la viaţă                                                 - Harding"
+    },
+    {
+        "channel": "History",
+        "time": "02:40",
+        "title": "Pe urmele antichităţilor                                                 - Găselnițe din Texas"
+    },
+    {
+        "channel": "History",
+        "time": "03:35",
+        "title": "Războiul depozitelor: Texas                                                 - Bubba-pocalipsa"
+    },
+    {
+        "channel": "History",
+        "time": "04:00",
+        "title": "Războiul depozitelor: Texas                                                 - Zombii de la Ponder"
+    },
+    {
+        "channel": "History",
+        "time": "04:30",
+        "title": "Războiul depozitelor: Texas                                                 - Jenny le duce pe toate"
+    },
+    {
+        "channel": "History",
+        "time": "05:00",
+        "title": "Războiul depozitelor: Texas                                                 - Ciudățeniile de la Austin"
+    },
+    {
+        "channel": "History",
+        "time": "05:30",
+        "title": "Războiul depozitelor: Texas                                                 - Depozitul de piñate"
+    },
+    {
+        "channel": "History",
+        "time": "06:00",
+        "title": "Vânătorii de chilipiruri                                                 - Trăiască Las Vegas"
+    },
+    {
+        "channel": "History",
+        "time": "06:25",
+        "title": "Vânătorii de chilipiruri                                                 - Cerneală la licitație"
+    },
+    {
+        "channel": "History",
+        "time": "06:55",
+        "title": "Securitatea graniței                                                 - episodul 2"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "07:00",
+        "title": "Bogății ascunse în magazii: Mașini vintage                        Sezonul 1 - Episodul 4  - Triumph Spitfire"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "08:00",
+        "title": "Cum se fabrică ?                        Sezonul 7 - Episodul 6  - Vase de gătit din sticlă/Săpun/Tobe de oţel/Uniforme de pompieri"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "08:30",
+        "title": "Cum se fabrică ?                        Sezonul 7 - Episodul 7  - Creioane colorate/Caiace din lemn/Maşini de tuns iarba/Lanţuri de aur"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "09:00",
+        "title": "Căutătorii de opal din Australia                        Sezonul 5 - Episodul 20"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "10:00",
+        "title": "Test de supravieţuire în doi                        Sezonul 5 - Episodul 5  - Pierduți în junglă"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "11:00",
+        "title": "Comori arhitecturale recuperate                        Sezonul 12 - Episodul 5  - Riscuri asumate"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "12:00",
+        "title": "Maşini pe alese                        Sezonul 13 - Episodul 8  - Un Chevy Corvette din 1968"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "13:00",
+        "title": "Poliția vitezei                        Sezonul 1 - Episodul 8"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "14:00",
+        "title": "Test de supravieţuire în grup                        Sezonul 4 - Episodul 3"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "15:00",
+        "title": "Test de supravieţuire în grup                        Sezonul 4 - Episodul 4"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "16:00",
+        "title": "Comori arhitecturale recuperate                        Sezonul 14 - Episodul 13"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "17:00",
+        "title": "Bogății ascunse în magazii                        Sezonul 6 - Episodul 10"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "17:30",
+        "title": "Bogății ascunse în magazii                        Sezonul 6 - Episodul 11  - Neil"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "18:00",
+        "title": "Maşini pe alese                        Sezonul 9 - Episodul 8  - Cobra"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "19:00",
+        "title": "Cum se fabrică ?                        Sezonul 2 - Episodul 6  - Plăci ceramice/Şuruburi/Oţel forjat/Skateboard-uri"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "19:30",
+        "title": "Cum se fabrică ?                        Sezonul 2 - Episodul 7  - Motoare auto/Făină/Rampe înclinate/Plicuri"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "20:00",
+        "title": "Maşini pe alese                        Sezonul 2 - Episodul 1  - Baja Bug"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "21:00",
+        "title": "Truck Dynasty                        Sezonul 1 - Episodul 1"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "22:00",
+        "title": "Test de supravieţuire: Până la ultimul om                        Sezonul 1 - Episodul 10  - Luptă strânsă ACUM"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "01:00",
+        "title": "Comori arhitecturale recuperate                        Sezonul 19 - Episodul 5  - Noi începuturi"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "02:00",
+        "title": "Maşini pe alese                        Sezonul 2 - Episodul 1  - Baja Bug"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "02:48",
+        "title": "Truck Dynasty                        Sezonul 1 - Episodul 1"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "03:36",
+        "title": "Test de supravieţuire în doi                        Sezonul 5 - Episodul 5  - Pierduți în junglă"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "04:24",
+        "title": "Maşini pe alese                        Sezonul 11 - Episodul 14  - Lincoln Continental"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "05:12",
+        "title": "Comori arhitecturale recuperate                        Sezonul 18 - Episodul 15  - Design inspirat de natură"
+    },
+    {
+        "channel": "Discovery Channel",
+        "time": "06:00",
+        "title": "Maşini pe alese                        Sezonul 17 - Episodul 10"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "07:00",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "07:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "08:00",
+        "title": "Știrile dimineții"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "08:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "09:00",
+        "title": "Știrile dimineții"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "09:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "10:00",
+        "title": "Stiri cu Ana Iorga"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "11:00",
+        "title": "NewsRoom cu Madalina Mihalache"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "12:00",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "13:00",
+        "title": "NewsRoom"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "14:00",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "15:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "16:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "17:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "18:00",
+        "title": "News Hour With CNN cu Ana Roman, Sabrina Preda și Ana Roman"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "19:00",
+        "title": "Top News cu Sabina Iosub si Radu Tudor"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "20:00",
+        "title": "Subiectiv"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "21:00",
+        "title": "Sinteza zilei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "22:00",
+        "title": "Sinteza zilei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "22:30",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "23:00",
+        "title": "Sinteza zilei ACUM"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "23:30",
+        "title": "În gura presei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "00:00",
+        "title": "În gura presei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "00:30",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "01:00",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "02:00",
+        "title": "Sinteza zilei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "02:30",
+        "title": "In Fata Natiunii cu Sabina Iosub si Mircea Badea, reluare"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "03:00",
+        "title": "Sinteza zilei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "04:00",
+        "title": "În gura presei"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "05:00",
+        "title": "News Hour With CNN cu Ana Roman, Sabrina Preda și Ana Roman, reluare"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "06:00",
+        "title": "Ştiri"
+    },
+    {
+        "channel": "Antena 3 CNN",
+        "time": "06:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "07:00",
+        "title": "Plus Matinal"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "10:00",
+        "title": "Realitatea zilei"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "12:00",
+        "title": "Newsroom"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "14:00",
+        "title": "Raport de zi"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "16:00",
+        "title": "100%"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "18:00",
+        "title": "Culisele statului paralel"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "20:50",
+        "title": "România suverană ACUM"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "00:00",
+        "title": "Culisele statului paralel                                     (R)"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "03:00",
+        "title": "100%                                     (R)"
+    },
+    {
+        "channel": "Realitatea Plus",
+        "time": "04:00",
+        "title": "România suverană                                     (R)"
+    },
+    {
+        "channel": "Prima Sport PPV2",
+        "time": "22:00",
+        "title": "Newcastle - Athletic Bilbao ACUM"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "07:00",
+        "title": "Zestrea muzicală"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "08:50",
+        "title": "Etnografica"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "09:00",
+        "title": "Muzica regiunilor"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "11:00",
+        "title": "Tezaur folcloric"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "12:00",
+        "title": "Scena românilor"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "14:00",
+        "title": "Cântec românesc"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "15:50",
+        "title": "Etnografica"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "16:00",
+        "title": "Mostenirea cantecului"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "18:00",
+        "title": "De la sate adunate"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "19:00",
+        "title": "Tezaur folcloric"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "20:00",
+        "title": "Ora de aur"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "21:00",
+        "title": "Scena românilor"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "22:50",
+        "title": "Etnografica"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "23:00",
+        "title": "Cu lăutarii după mine ACUM"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "00:00",
+        "title": "Muzică tradiţională"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "06:00",
+        "title": "Muzică tradiţională"
+    },
+    {
+        "channel": "TVR Folclor",
+        "time": "06:55",
+        "title": "Imnul României"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "09:00",
+        "title": "3 Play"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "09:15",
+        "title": "Morning Mix"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "10:00",
+        "title": "Today's Hitlist - TOP 10"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "11:00",
+        "title": "11 Vids we're loving right now"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "12:00",
+        "title": "Versus"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "12:30",
+        "title": "Hot + Hits"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "13:00",
+        "title": "Clubland - This week's TOP 10"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "13:45",
+        "title": "Hot+Hits"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "14:00",
+        "title": ".Ro"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "14:30",
+        "title": "Hot+Hits"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "16:30",
+        "title": "Versus"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "17:00",
+        "title": "Get fresh! - TODAY'S HOTTEST 5"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "17:30",
+        "title": "Social Media Chart"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "18:00",
+        "title": "Today's hot girls"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "19:00",
+        "title": "Beats and massive R'N'B Hits"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "20:00",
+        "title": "Euro Top 20                                     (R)"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "22:00",
+        "title": "Today's Hitlist                                     (R)"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "23:00",
+        "title": "Hip Hop Beats ACUM"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "00:00",
+        "title": "Streaming Chart                                     (R)"
+    },
+    {
+        "channel": "Music Channel",
+        "time": "01:00",
+        "title": "Nightshift"
+    },
+    {
+        "channel": "BBC News",
+        "time": "07:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "07:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "08:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "08:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "09:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "09:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "10:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "10:30",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "11:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "11:30",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "12:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "12:30",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "13:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "13:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "13:45",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "14:00",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "14:30",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "15:00",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "15:30",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "16:00",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "16:30",
+        "title": "Business Today - NYSE Opening Bell"
+    },
+    {
+        "channel": "BBC News",
+        "time": "16:45",
+        "title": "BBC News Now"
+    },
+    {
+        "channel": "BBC News",
+        "time": "17:00",
+        "title": "Verified Live"
+    },
+    {
+        "channel": "BBC News",
+        "time": "17:30",
+        "title": "Verified Live"
+    },
+    {
+        "channel": "BBC News",
+        "time": "18:00",
+        "title": "Verified Live"
+    },
+    {
+        "channel": "BBC News",
+        "time": "18:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "18:45",
+        "title": "Verified Live"
+    },
+    {
+        "channel": "BBC News",
+        "time": "19:00",
+        "title": "Verified Live"
+    },
+    {
+        "channel": "BBC News",
+        "time": "19:30",
+        "title": "Focus on Africa"
+    },
+    {
+        "channel": "BBC News",
+        "time": "20:00",
+        "title": "The World Today with Maryam Moshiri"
+    },
+    {
+        "channel": "BBC News",
+        "time": "20:30",
+        "title": "The World Today with Maryam Moshiri"
+    },
+    {
+        "channel": "BBC News",
+        "time": "21:00",
+        "title": "The World Today with Maryam Moshiri"
+    },
+    {
+        "channel": "BBC News",
+        "time": "21:30",
+        "title": "The World Today with Maryam Moshiri"
+    },
+    {
+        "channel": "BBC News",
+        "time": "22:00",
+        "title": "The Context with Christian Fraser"
+    },
+    {
+        "channel": "BBC News",
+        "time": "22:30",
+        "title": "The Context with Christian Fraser"
+    },
+    {
+        "channel": "BBC News",
+        "time": "23:00",
+        "title": "The Context USA ACUM"
+    },
+    {
+        "channel": "BBC News",
+        "time": "23:30",
+        "title": "The Context USA"
+    },
+    {
+        "channel": "BBC News",
+        "time": "00:00",
+        "title": "BBC World News America"
+    },
+    {
+        "channel": "BBC News",
+        "time": "00:30",
+        "title": "Newsnight"
+    },
+    {
+        "channel": "BBC News",
+        "time": "01:00",
+        "title": "BBC World News America"
+    },
+    {
+        "channel": "BBC News",
+        "time": "02:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "02:30",
+        "title": "Newscast"
+    },
+    {
+        "channel": "BBC News",
+        "time": "03:00",
+        "title": "BBC News"
+    },
+    {
+        "channel": "BBC News",
+        "time": "03:30",
+        "title": "Lethal Waters: Climate Change in Pakistan"
+    },
+    {
+        "channel": "BBC News",
+        "time": "04:00",
+        "title": "Newsday"
+    },
+    {
+        "channel": "BBC News",
+        "time": "04:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "04:45",
+        "title": "BBC Sport"
+    },
+    {
+        "channel": "BBC News",
+        "time": "05:00",
+        "title": "Newsday"
+    },
+    {
+        "channel": "BBC News",
+        "time": "05:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "05:45",
+        "title": "BBC Sport"
+    },
+    {
+        "channel": "BBC News",
+        "time": "06:00",
+        "title": "Newsday"
+    },
+    {
+        "channel": "BBC News",
+        "time": "06:30",
+        "title": "Business Today"
+    },
+    {
+        "channel": "BBC News",
+        "time": "06:45",
+        "title": "BBC Sport"
+    },
+    {
+        "channel": "France 24",
+        "time": "07:00",
+        "title": "A LA UNE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "07:22",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "07:30",
+        "title": "A LA UNE - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "07:51",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "07:59",
+        "title": "A LA UNE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "08:16",
+        "title": "REVUE DE PRESSE"
+    },
+    {
+        "channel": "France 24",
+        "time": "08:21",
+        "title": "REPORTAGE F24"
+    },
+    {
+        "channel": "France 24",
+        "time": "08:30",
+        "title": "A LA UNE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "08:46",
+        "title": "L'INFO ECO"
+    },
+    {
+        "channel": "France 24",
+        "time": "08:51",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "09:00",
+        "title": "A LA UNE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "09:15",
+        "title": "L'INVITE DE A LA UNE"
+    },
+    {
+        "channel": "France 24",
+        "time": "09:30",
+        "title": "A LA UNE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "09:46",
+        "title": "REVUE DE PRESSE"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:00",
+        "title": "PARLONS-EN - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:22",
+        "title": "L'INFO ECO"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:30",
+        "title": "PARLONS-EN - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:42",
+        "title": "REVUE DE PRESSE"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:47",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "10:52",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "11:00",
+        "title": "LE JOURNAL - LE DEBAT DE PARLONS-EN"
+    },
+    {
+        "channel": "France 24",
+        "time": "11:45",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "11:50",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "12:00",
+        "title": "PARLONS-EN - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "12:10",
+        "title": "ICI L'EUROPE 1 - ON VOUS ECOUTE"
+    },
+    {
+        "channel": "France 24",
+        "time": "12:30",
+        "title": "PARLONS-EN - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "12:39",
+        "title": "FACE A FACE"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:00",
+        "title": "PARIS DIRECT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:15",
+        "title": "A L'AFFICHE"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:30",
+        "title": "PARIS DIRECT - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:45",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:50",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "13:59",
+        "title": "LE JOURNAL - L'INFO DU JOUR"
+    },
+    {
+        "channel": "France 24",
+        "time": "14:30",
+        "title": "PARIS DIRECT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "15:00",
+        "title": "LE JOURNAL - LE CLUB PARIS DIRECT"
+    },
+    {
+        "channel": "France 24",
+        "time": "15:30",
+        "title": "LE JOURNAL - DERRIERE L'IMAGE"
+    },
+    {
+        "channel": "France 24",
+        "time": "15:45",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "15:50",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "16:00",
+        "title": "AUTOUR DU MONDE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "16:30",
+        "title": "LE JOURNAL- LE RENDEZ-VOUS DE L'AFRIQUE"
+    },
+    {
+        "channel": "France 24",
+        "time": "16:45",
+        "title": "PAS 2 QUARTIER"
+    },
+    {
+        "channel": "France 24",
+        "time": "16:52",
+        "title": "MODE"
+    },
+    {
+        "channel": "France 24",
+        "time": "17:00",
+        "title": "AUTOUR DU MONDE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "17:30",
+        "title": "AUTOUR DU MONDE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "17:40",
+        "title": "ELEMENT TERRE LA QUOTIDIENNE"
+    },
+    {
+        "channel": "France 24",
+        "time": "17:46",
+        "title": "A L'AFFICHE"
+    },
+    {
+        "channel": "France 24",
+        "time": "18:00",
+        "title": "AUTOUR DU MONDE - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "18:15",
+        "title": "LES OBSERVATEURS"
+    },
+    {
+        "channel": "France 24",
+        "time": "18:21",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "18:30",
+        "title": "AUX AVANT-POSTES"
+    },
+    {
+        "channel": "France 24",
+        "time": "18:59",
+        "title": "AU COEUR DE L'INFO - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "19:16",
+        "title": "QUESTIONS DIRECTES"
+    },
+    {
+        "channel": "France 24",
+        "time": "19:30",
+        "title": "AU COEUR DE L'INFO - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "19:46",
+        "title": "ECONOMIE SOIR"
+    },
+    {
+        "channel": "France 24",
+        "time": "19:51",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "20:00",
+        "title": "AU COEUR DE L'INFO - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "20:10",
+        "title": "LE DEBAT"
+    },
+    {
+        "channel": "France 24",
+        "time": "20:55",
+        "title": "L'INSTANT MOBILE"
+    },
+    {
+        "channel": "France 24",
+        "time": "21:00",
+        "title": "L'ESSENTIEL - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "21:16",
+        "title": "ECONOMIE SOIR"
+    },
+    {
+        "channel": "France 24",
+        "time": "21:21",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "21:30",
+        "title": "LE JOURNAL - ON VA PLUS LOIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:00",
+        "title": "L'ESSENTIEL - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:15",
+        "title": "INFO-INTOX"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:20",
+        "title": "ELEMENT TERRE LA QUOTIDIENNE"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:30",
+        "title": "L'ESSENTIEL - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:36",
+        "title": "LES CLES DE L'INFO"
+    },
+    {
+        "channel": "France 24",
+        "time": "22:44",
+        "title": "LE JOURNAL DE L'AFRIQUE"
+    },
+    {
+        "channel": "France 24",
+        "time": "23:00",
+        "title": "L'ACTU 360° - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "23:15",
+        "title": "ECONOMIE SOIR ACUM"
+    },
+    {
+        "channel": "France 24",
+        "time": "23:20",
+        "title": "INFO-INTOX"
+    },
+    {
+        "channel": "France 24",
+        "time": "23:30",
+        "title": "LE ZOOM"
+    },
+    {
+        "channel": "France 24",
+        "time": "23:44",
+        "title": "LE JOURNAL DE L'AFRIQUE"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:00",
+        "title": "L'ACTU 360° - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:15",
+        "title": "ECONOMIE + INFO INTOX"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:30",
+        "title": "L'ACTU 360° - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:39",
+        "title": "LES CLES DE L'INFO"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:43",
+        "title": "SPORTS"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:49",
+        "title": "LES UNES DE LA PRESSE"
+    },
+    {
+        "channel": "France 24",
+        "time": "00:51",
+        "title": "FOCUS"
+    },
+    {
+        "channel": "France 24",
+        "time": "01:00",
+        "title": "L'ACTU 360° - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "01:15",
+        "title": "LE DEBAT"
+    },
+    {
+        "channel": "France 24",
+        "time": "02:00",
+        "title": "L'EDITION NUIT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "02:14",
+        "title": "LE JOURNAL DE L'AFRIQUE"
+    },
+    {
+        "channel": "France 24",
+        "time": "02:30",
+        "title": "L'EDITION NUIT - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "02:45",
+        "title": "A L'AFFICHE"
+    },
+    {
+        "channel": "France 24",
+        "time": "03:00",
+        "title": "L'EDITION NUIT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "03:10",
+        "title": "ICI L'EUROPE 2 - ON EN DEBAT"
+    },
+    {
+        "channel": "France 24",
+        "time": "03:30",
+        "title": "L'EDITION NUIT - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "03:40",
+        "title": "FACE A FACE"
+    },
+    {
+        "channel": "France 24",
+        "time": "04:00",
+        "title": "L'EDITION NUIT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "04:11",
+        "title": "LE DEBAT"
+    },
+    {
+        "channel": "France 24",
+        "time": "04:55",
+        "title": "L'INSTANT MOBILE"
+    },
+    {
+        "channel": "France 24",
+        "time": "05:00",
+        "title": "L'EDITION NUIT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "05:10",
+        "title": "BILLET RETOUR"
+    },
+    {
+        "channel": "France 24",
+        "time": "05:30",
+        "title": "L'EDITION NUIT - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "05:40",
+        "title": "LEGENDES URBAINES"
+    },
+    {
+        "channel": "France 24",
+        "time": "06:00",
+        "title": "L'EDITION NUIT - LE JOURNAL"
+    },
+    {
+        "channel": "France 24",
+        "time": "06:10",
+        "title": "FACE A FACE"
+    },
+    {
+        "channel": "France 24",
+        "time": "06:30",
+        "title": "L'EDITION NUIT - BULLETIN"
+    },
+    {
+        "channel": "France 24",
+        "time": "06:40",
+        "title": "L'INSTANT MOBILE"
+    },
+    {
+        "channel": "France 24",
+        "time": "06:44",
+        "title": "LE JOURNAL DE L'AFRIQUE"
+    },
+    {
+        "channel": "Prima News",
+        "time": "07:00",
+        "title": "Proiect De Tara"
+    },
+    {
+        "channel": "Prima News",
+        "time": "09:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "09:05",
+        "title": "Proiect De Tara"
+    },
+    {
+        "channel": "Prima News",
+        "time": "10:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "10:05",
+        "title": "Prima News By Profit.Ro Raluca Al Haddad"
+    },
+    {
+        "channel": "Prima News",
+        "time": "11:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "11:05",
+        "title": "Prima News By Profit.Ro Raluca Al Haddad"
+    },
+    {
+        "channel": "Prima News",
+        "time": "12:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "12:05",
+        "title": "Educatie Cu Profit"
+    },
+    {
+        "channel": "Prima News",
+        "time": "13:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "13:05",
+        "title": "Prima News By Profit.Ro C-Tin Rudnitchi"
+    },
+    {
+        "channel": "Prima News",
+        "time": "14:00",
+        "title": "Head-Uri Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "14:05",
+        "title": "Profit Live"
+    },
+    {
+        "channel": "Prima News",
+        "time": "15:00",
+        "title": "Sistemul Medikal"
+    },
+    {
+        "channel": "Prima News",
+        "time": "16:00",
+        "title": "Focus 14 Inregistrat"
+    },
+    {
+        "channel": "Prima News",
+        "time": "18:00",
+        "title": "Romania Politica Cu Larisa Bernaschi"
+    },
+    {
+        "channel": "Prima News",
+        "time": "20:00",
+        "title": "Proiect De Tara: Romania! Cu Andrei Gheorghe"
+    },
+    {
+        "channel": "Prima News",
+        "time": "23:00",
+        "title": "Romania Politica ACUM"
+    },
+    {
+        "channel": "Prima News",
+        "time": "01:00",
+        "title": "Proiect De Tara :Romania!"
+    },
+    {
+        "channel": "Prima News",
+        "time": "04:00",
+        "title": "Focus 18 Inregistrat"
+    },
+    {
+        "channel": "Prima News",
+        "time": "06:00",
+        "title": "Romania Politica"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "07:30",
+        "title": "ȘTIRILE PRIMA SPORT                                                 - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "07:45",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "08:45",
+        "title": "ȘTIRILE PRIMA SPORT                                     (R)  - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "09:00",
+        "title": "TELESHOPPING"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "09:30",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "10:30",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "11:30",
+        "title": "TELESHOPPING"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "12:00",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "13:00",
+        "title": "TELESHOPPING"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "14:00",
+        "title": "ȘTIRILE PRIMA SPORT                                     (R)  - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "14:15",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "15:15",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "16:15",
+        "title": "ȘTIRILE PRIMA SPORT                                     (R)  - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "16:30",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "17:30",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "18:30",
+        "title": "ȘTIRILE PRIMA SPORT                                                 - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "18:45",
+        "title": "STUDIO UEFA"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "19:45",
+        "title": "Qarabag – Chelsea                                                  - MECI FOTBAL UEFA CHAMPIONS LEAGUE"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "22:00",
+        "title": "Manchester City – Dortmund                                                  - MECI FOTBAL UEFA CHAMPIONS LEAGUE ACUM"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "00:00",
+        "title": "STUDIO UEFA"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "01:00",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "02:00",
+        "title": "ȘTIRILE PRIMA SPORT                                     (R)  - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "02:15",
+        "title": "Club Brugges – Barcelona                                      (R)  - MECI FOTBAL UEFA CHAMPIONS LEAGUE"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "04:15",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "05:15",
+        "title": "REZUMATE UEFA CHAMPIONS LEAGUE                                      (R)"
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "06:15",
+        "title": "ȘTIRILE PRIMA SPORT                                     (R)  - Cele mai importante informații din lumea sportului."
+    },
+    {
+        "channel": "Prima Sport 1",
+        "time": "06:30",
+        "title": "STUDIO UEFA                                      (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "07:00",
+        "title": "Jurnal Moldova Tv                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "07:30",
+        "title": "Istoria neștiută"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "08:00",
+        "title": "Retro Show"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "08:25",
+        "title": "Retro Show"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "09:00",
+        "title": "Prahova Economică                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "09:30",
+        "title": "Manapond Culinar"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "10:00",
+        "title": "Comorile Neamului"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "10:30",
+        "title": "Comorile Neamului"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "11:00",
+        "title": "Comorile Neamului"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "11:30",
+        "title": "Comorile Neamului"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "12:00",
+        "title": "Documentar"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "12:30",
+        "title": "Documentar"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "13:00",
+        "title": "Design Auto Moto"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "13:30",
+        "title": "Jurnal De Călătorie"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "14:00",
+        "title": "Cărți care au schimbat lumea"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "14:30",
+        "title": "Cărți care au schimbat lumea"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "15:00",
+        "title": "News Expres"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "15:30",
+        "title": "Documentar Educațional"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "16:00",
+        "title": "Dor De Cântec"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "16:30",
+        "title": "Dor De Cântec"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "17:00",
+        "title": "Dor De Cântec"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "17:30",
+        "title": "Dor De Cântec"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "18:00",
+        "title": "Brașovul tău"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "18:30",
+        "title": "Brașovul tău"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "19:00",
+        "title": "Calatorie In Lumea Presei"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "19:30",
+        "title": "Calatorie In Lumea Presei"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "20:00",
+        "title": "Jurnal Moldova Tv"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "20:30",
+        "title": "Cu cărțile pe față"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "21:00",
+        "title": "Cu cărțile pe față"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "21:30",
+        "title": "Film"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "22:00",
+        "title": "Film"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "22:30",
+        "title": "Film"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "23:00",
+        "title": "Jurnal Moldova Tv ACUM"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "23:30",
+        "title": "Filmul Din Carte"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "00:00",
+        "title": "Cărți care au schimbat lumea                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "00:30",
+        "title": "Cărți care au schimbat lumea                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "01:00",
+        "title": "Club Cinema                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "01:30",
+        "title": "Fashion                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "02:00",
+        "title": "Jurnal Moldova Tv                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "02:30",
+        "title": "Cu cărtile pe masă                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "03:00",
+        "title": "Cu cărtile pe masă                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "03:30",
+        "title": "Cuvinte din tăceri                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "04:00",
+        "title": "Cuvinte din tăceri                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "04:30",
+        "title": "News Expres                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "05:00",
+        "title": "Design Auto-Moto                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "05:30",
+        "title": "Istoria neștiută                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "06:00",
+        "title": "Documentar                                     (R)"
+    },
+    {
+        "channel": "Moldova TV",
+        "time": "06:30",
+        "title": "Design Auto Moto"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "07:00",
+        "title": "ZUnrise"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "08:00",
+        "title": "ZU News"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "08:02",
+        "title": "ZUnrise"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "10:00",
+        "title": "Hitman Hot 10"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "11:00",
+        "title": "BIG IN"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "12:00",
+        "title": "Torpedoul lui Morar + Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "13:00",
+        "title": "Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "14:00",
+        "title": "Celebrity Playlist"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "15:00",
+        "title": "Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "16:00",
+        "title": "ZU News"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "16:02",
+        "title": "Torpedoul lui Morar + Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "17:00",
+        "title": "Face 2 Face"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "18:00",
+        "title": "Torpedoul lui Morar + Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "19:00",
+        "title": "Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "20:00",
+        "title": "BIG IN"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "21:00",
+        "title": "K-POP"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "22:00",
+        "title": "Torpedoul lui Morar + Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "23:00",
+        "title": "Face 2 Face ACUM"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "00:00",
+        "title": "ZU News"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "00:02",
+        "title": "ZUeet Dreams"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "02:00",
+        "title": "Revizie tehnica"
+    },
+    {
+        "channel": "ZU TV",
+        "time": "06:00",
+        "title": "Eat, Sleep, ZU, Repeat"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "07:30",
+        "title": "Cântece pentru cei dragi"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "08:30",
+        "title": "Cântece pentru cei dragi"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "11:00",
+        "title": "Cântece pentru cei dragi / Teleshopping"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "13:00",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "15:00",
+        "title": "Cantece pentru cei dragi / Teleshopping"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "16:00",
+        "title": "Sanatate inainte de toate cu Lacramioara Pralea                                     (R)"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "17:00",
+        "title": "Cântece pentru cei dragi"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "18:00",
+        "title": "Cântece pentru cei dragi"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "19:00",
+        "title": "Seară românească"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "22:10",
+        "title": "Petrecere la Han                                     (R)"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "22:30",
+        "title": "Cântece pentru cei dragi ACUM"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "00:00",
+        "title": "Cantece pentru cei dragi"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "01:00",
+        "title": "Seară Românească                                     (R)"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "05:30",
+        "title": "Cântece pentru cei dragi                                     (R)"
+    },
+    {
+        "channel": "Etno TV",
+        "time": "06:30",
+        "title": "Sănătate inainte de toate cu Lacramioara Pralea                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "07:00",
+        "title": "Zile de poveste                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "07:30",
+        "title": "Intrare liberă                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "09:00",
+        "title": "Jurnal Cultural                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "09:50",
+        "title": "Portrete Omul Anului"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "10:00",
+        "title": "Classy Jukebox"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "12:00",
+        "title": "Concert de prânz"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "13:00",
+        "title": "Jurnal Cultural"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "13:05",
+        "title": "Cultart"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "14:00",
+        "title": "A şaptea obsesie                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "14:30",
+        "title": "Cultura minorităţilor"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "15:00",
+        "title": "Remix                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "16:00",
+        "title": "Classy Jukebox"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "16:30",
+        "title": "Profesioniştii... cu Eugenia Vodă"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "17:30",
+        "title": "Zile de poveste"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "18:00",
+        "title": "Jurnal Cultural"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "18:05",
+        "title": "Documentar 360° Geo                                                 - Franţa – paiele din nou la modă"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "19:00",
+        "title": "Actul 0"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "19:30",
+        "title": "Intrare liberă"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "21:00",
+        "title": "Jurnal Cultural"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "21:50",
+        "title": "Portrete Omul Anului                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "22:00",
+        "title": "Teatru TV ACUM"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "00:00",
+        "title": "Concert de prânz                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "01:00",
+        "title": "Jurnal Cultural                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "02:00",
+        "title": "Cultart                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "03:00",
+        "title": "Teatru TV                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "05:00",
+        "title": "Classy Jukebox                                     (R)"
+    },
+    {
+        "channel": "TVR Cultural",
+        "time": "06:55",
+        "title": "Imnul  României"
+    },
+    {
+        "channel": "CNN",
+        "time": "07:00",
+        "title": "CNN Newsroom"
+    },
+    {
+        "channel": "CNN",
+        "time": "07:45",
+        "title": "World Sport"
+    },
+    {
+        "channel": "CNN",
+        "time": "08:00",
+        "title": "CNN Newsroom"
+    },
+    {
+        "channel": "CNN",
+        "time": "09:00",
+        "title": "CNN Newsroom"
+    },
+    {
+        "channel": "CNN",
+        "time": "09:45",
+        "title": "World Sport"
+    },
+    {
+        "channel": "CNN",
+        "time": "10:00",
+        "title": "CNN Newsroom"
+    },
+    {
+        "channel": "CNN",
+        "time": "10:45",
+        "title": "Marketplace Middle East"
+    },
+    {
+        "channel": "CNN",
+        "time": "11:00",
+        "title": "Amanpour"
+    },
+    {
+        "channel": "CNN",
+        "time": "12:00",
+        "title": "Early Start with Rahel Solomon"
+    },
+    {
+        "channel": "CNN",
+        "time": "13:00",
+        "title": "CNN This Morning"
+    },
+    {
+        "channel": "CNN",
+        "time": "14:00",
+        "title": "CNN News Central"
+    },
+    {
+        "channel": "CNN",
+        "time": "15:00",
+        "title": "CNN News Central"
+    },
+    {
+        "channel": "CNN",
+        "time": "15:30",
+        "title": "World Sport"
+    },
+    {
+        "channel": "CNN",
+        "time": "16:00",
+        "title": "Connect the World"
+    },
+    {
+        "channel": "CNN",
+        "time": "16:45",
+        "title": "World Sport"
+    },
+    {
+        "channel": "CNN",
+        "time": "17:00",
+        "title": "Connect the World"
+    },
+    {
+        "channel": "CNN",
+        "time": "17:45",
+        "title": "Marketplace Middle East"
+    },
+    {
+        "channel": "CNN",
+        "time": "18:00",
+        "title": "One World"
+    },
+    {
+        "channel": "CNN",
+        "time": "19:00",
+        "title": "One World"
+    },
+    {
+        "channel": "CNN",
+        "time": "20:00",
+        "title": "Amanpour"
+    },
+    {
+        "channel": "CNN",
+        "time": "21:00",
+        "title": "Isa Soares Tonight"
+    },
+    {
+        "channel": "CNN",
+        "time": "22:00",
+        "title": "What We Know with Max Foster"
+    },
+    {
+        "channel": "CNN",
+        "time": "23:00",
+        "title": "Quest Means Business ACUM"
+    },
+    {
+        "channel": "CNN",
+        "time": "00:00",
+        "title": "The Lead with Jake Tapper"
+    },
+    {
+        "channel": "CNN",
+        "time": "00:30",
+        "title": "World Sport"
+    },
+    {
+        "channel": "CNN",
+        "time": "01:00",
+        "title": "The Brief with Jim Sciutto"
+    },
+    {
+        "channel": "CNN",
+        "time": "02:00",
+        "title": "Erin Burnett OutFront"
+    },
+    {
+        "channel": "CNN",
+        "time": "03:00",
+        "title": "Anderson Cooper 360"
+    },
+    {
+        "channel": "CNN",
+        "time": "04:00",
+        "title": "The Source with Kaitlan Collins"
+    },
+    {
+        "channel": "CNN",
+        "time": "05:00",
+        "title": "CNN NewsNight"
+    },
+    {
+        "channel": "TVR International",
+        "time": "07:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "TVR International",
+        "time": "07:45",
+        "title": "Discover Romania"
+    },
+    {
+        "channel": "TVR International",
+        "time": "08:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "TVR International",
+        "time": "08:45",
+        "title": "Vorbeşte corect!"
+    },
+    {
+        "channel": "TVR International",
+        "time": "08:50",
+        "title": "Pastila de istorie"
+    },
+    {
+        "channel": "TVR International",
+        "time": "09:00",
+        "title": "Reţeaua de idoli                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "09:50",
+        "title": "Duelul pianelor"
+    },
+    {
+        "channel": "TVR International",
+        "time": "11:30",
+        "title": "Cap compas                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "12:00",
+        "title": "Investiţi în România!                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "13:00",
+        "title": "Global"
+    },
+    {
+        "channel": "TVR International",
+        "time": "14:00",
+        "title": "Telejurnal"
+    },
+    {
+        "channel": "TVR International",
+        "time": "14:35",
+        "title": "România... în bucate"
+    },
+    {
+        "channel": "TVR International",
+        "time": "15:00",
+        "title": "Ediţie limitată"
+    },
+    {
+        "channel": "TVR International",
+        "time": "15:55",
+        "title": "Vorbeşte corect!"
+    },
+    {
+        "channel": "TVR International",
+        "time": "16:00",
+        "title": "Punctul critic"
+    },
+    {
+        "channel": "TVR International",
+        "time": "17:05",
+        "title": "Călătorii cu gust"
+    },
+    {
+        "channel": "TVR International",
+        "time": "17:35",
+        "title": "Istoriile oraşului"
+    },
+    {
+        "channel": "TVR International",
+        "time": "18:00",
+        "title": "Telejurnal Moldova"
+    },
+    {
+        "channel": "TVR International",
+        "time": "18:45",
+        "title": "Destine ca-n filme                                                 - In memoriam Ioan Luchian Mihalea"
+    },
+    {
+        "channel": "TVR International",
+        "time": "19:30",
+        "title": "Prezenţe româneşti"
+    },
+    {
+        "channel": "TVR International",
+        "time": "20:00",
+        "title": "Telejurnal"
+    },
+    {
+        "channel": "TVR International",
+        "time": "20:55",
+        "title": "Zi de zi cu părintele Constantin Necula"
+    },
+    {
+        "channel": "TVR International",
+        "time": "21:00",
+        "title": "Articolul VII"
+    },
+    {
+        "channel": "TVR International",
+        "time": "22:00",
+        "title": "Câştigă România!"
+    },
+    {
+        "channel": "TVR International",
+        "time": "23:00",
+        "title": "Drumul lui Leşe ACUM"
+    },
+    {
+        "channel": "TVR International",
+        "time": "00:00",
+        "title": "Istorii de bun gust"
+    },
+    {
+        "channel": "TVR International",
+        "time": "01:00",
+        "title": "Jurnal Cultural"
+    },
+    {
+        "channel": "TVR International",
+        "time": "02:00",
+        "title": "Ediţie limitată                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "03:00",
+        "title": "Telejurnal                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "03:55",
+        "title": "Zi de zi cu părintele Constantin Necula"
+    },
+    {
+        "channel": "TVR International",
+        "time": "04:00",
+        "title": "Articolul VII                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "05:00",
+        "title": "Drumul lui Leşe                                     (R)"
+    },
+    {
+        "channel": "TVR International",
+        "time": "05:55",
+        "title": "Imnul  României"
+    },
+    {
+        "channel": "TVR International",
+        "time": "06:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "08:00",
+        "title": "Mame adolescente                        Sezonul 9 - Episodul 913"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "08:40",
+        "title": "Mame adolescente                        Sezonul 9 - Episodul 914"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "09:25",
+        "title": "Mame adolescente                        Sezonul 9 - Episodul 9 16"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "10:15",
+        "title": "Catfish: Emisiunea TV                        Sezonul 8 - Episodul 8031"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "10:55",
+        "title": "Catfish: Emisiunea TV                        Sezonul 8 - Episodul 8032"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "11:40",
+        "title": "Catfish: Emisiunea TV                        Sezonul 8 - Episodul 8033"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "12:20",
+        "title": "Perechea perfectă                        Sezonul 6 - Episodul 603"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "13:05",
+        "title": "Perechea perfectă                        Sezonul 6 - Episodul 604"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "13:50",
+        "title": "Ridiculousness                        Sezonul 35 - Episodul 3517"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "14:15",
+        "title": "Ridiculousness                        Sezonul 35 - Episodul 3519"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "14:40",
+        "title": "Ridiculousness                        Sezonul 35 - Episodul 3520"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "15:00",
+        "title": "Ridiculousness                        Sezonul 40 - Episodul 4030"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "15:25",
+        "title": "Catfish: Emisiunea TV                        Sezonul 7 - Episodul 708"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "16:15",
+        "title": "Catfish: Emisiunea TV                        Sezonul 8 - Episodul 8020"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "17:00",
+        "title": "Catfish: Emisiunea TV                        Sezonul 4 - Episodul 405"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "17:40",
+        "title": "Catfish: Emisiunea TV                        Sezonul 8 - Episodul 8025"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "18:25",
+        "title": "Catfish: Emisiunea TV                        Sezonul 6 - Episodul 613"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "19:15",
+        "title": "Cel mai bun artist tatuator Cleen contra Christian                        Sezonul 11 - Episodul 1114"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "20:00",
+        "title": "Ridiculousness                        Sezonul 41 - Episodul 4123"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "20:20",
+        "title": "Infideli: Prinşi în flagrant Infideli                        Sezonul 3 - Episodul 310"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "21:10",
+        "title": "Ajutor! Am o relaţie secretă                        Sezonul 3 - Episodul 304"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "22:00",
+        "title": "Muzica                        Sezonul 41 - Episodul 4113"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "23:05",
+        "title": "Cel mai bun artist tatuator Cei vechi şi cei tineri                        Sezonul 16 - Episodul 1603 ACUM"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "23:55",
+        "title": "Ridiculousness                        Sezonul 40 - Episodul 40 12"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "00:20",
+        "title": "Ridiculousness                        Sezonul 40 - Episodul 4017"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "00:40",
+        "title": "Ridiculousness                        Sezonul 40 - Episodul 40 12"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "01:00",
+        "title": "Cel mai bun artist tatuator: Lupta pentru supremaţie                        Sezonul 13 - Episodul 1313"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "01:50",
+        "title": "Cel mai bun artist tatuator: Lupta pentru supremaţie                        Sezonul 13 - Episodul 1314"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "02:35",
+        "title": "Ridiculousness                        Sezonul 39 - Episodul 3942"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "02:55",
+        "title": "Ridiculousness                        Sezonul 40 - Episodul 4001"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "03:20",
+        "title": "M de la muzică"
+    },
+    {
+        "channel": "MTV Europe",
+        "time": "06:00",
+        "title": "M de la muzică"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "07:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "07:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "08:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "08:45",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "09:00",
+        "title": "Info Plus"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "09:55",
+        "title": "Starea Planetei"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "10:00",
+        "title": "Info Plus"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "10:55",
+        "title": "Meteo"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "11:00",
+        "title": "Cine face legea"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "12:00",
+        "title": "Telejurnal"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "12:35",
+        "title": "Meteo"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "12:40",
+        "title": "Sport AG"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "13:00",
+        "title": "Telejurnal Moldova"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "13:40",
+        "title": "Teleshopping"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "14:00",
+        "title": "Telejurnal"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "14:55",
+        "title": "Starea Planetei"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "15:00",
+        "title": "Europa, printre randuri                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "15:55",
+        "title": "Meteo"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "16:00",
+        "title": "Banii, azi"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "17:00",
+        "title": "Info Express"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "18:00",
+        "title": "Ora de Stiri"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "18:55",
+        "title": "Starea Planetei"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "19:00",
+        "title": "Frontul"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "19:45",
+        "title": "Sport AG"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "20:00",
+        "title": "Telejurnal"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "20:55",
+        "title": "Meteo"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "21:00",
+        "title": "Prim plan"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "21:50",
+        "title": "Prim plan"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "23:00",
+        "title": "Info Plus"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "23:15",
+        "title": "După Știri ACUM"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "00:00",
+        "title": "Oamenii şi legea"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "00:48",
+        "title": "E vremea ta!"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "01:00",
+        "title": "Telejurnal Moldova"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "01:45",
+        "title": "Banii, azi                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "02:35",
+        "title": "Telejurnal                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "03:25",
+        "title": "Prim plan                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "04:05",
+        "title": "Prim plan                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "05:05",
+        "title": "Frontul                                     (R)"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "05:55",
+        "title": "Imnul  României"
+    },
+    {
+        "channel": "TVR Info",
+        "time": "06:00",
+        "title": "Telejurnal matinal"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "10:00",
+        "title": "Kiss Alert"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "13:00",
+        "title": "Kiss After School"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "16:00",
+        "title": "Hits For Hours"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "19:00",
+        "title": "Kiss Alert"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "21:00",
+        "title": "Big Beats ACUM"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "02:00",
+        "title": "Kiss By Night"
+    },
+    {
+        "channel": "Kiss TV",
+        "time": "06:00",
+        "title": "Rise & Kiss"
     }
 ]

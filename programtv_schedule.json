@@ -1,0 +1,2642 @@
+[
+    {
+        "channel": "HBO",
+        "time": "07:45",
+        "title": "Broke  - Înfrânt",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "09:30",
+        "title": "Depeşa franceză  - Cronica franceză din Liberty, Kansas Evening Sun",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "11:15",
+        "title": "Harold și creionul fermecat  - Harold și creionul fermecat",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "12:45",
+        "title": "Aquaman și regatul pierdut  - Aquaman și Regatul Pierdut",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "14:50",
+        "title": "Ultima dansatoare de cabaret  - Ultima dansatoare de cabaret",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "16:20",
+        "title": "Trei kilometri până la capătul lumii  - Trei kilometri până la capătul lumii",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "18:05",
+        "title": "Pasagerii  - Pasagerii",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "20:00",
+        "title": "Arme  - Arme ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "HBO",
+        "time": "22:10",
+        "title": "IT: Bun-venit în Derry! Sezonul 1 - Episodul 2  - IT: Bun-venit în Derry! - Ep. 2: Creatura din întuneric",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "23:10",
+        "title": "The Pitt: Spitalul Sezonul 1 - Episodul 13  - The Pitt: Spitalul - Ep. 13: 19:00",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "23:55",
+        "title": "Păcătoșii  - Păcătoșii",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "02:10",
+        "title": "Dragoste, minciuni și sânge  - Dragoste, minciuni și sânge",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "03:50",
+        "title": "Arme  - Arme",
+        "live": ""
+    },
+    {
+        "channel": "HBO",
+        "time": "06:00",
+        "title": "Trei kilometri până la capătul lumii  - Trei kilometri până la capătul lumii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "07:00",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "10:30",
+        "title": "Vorbeşte lumea AP 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "13:00",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "14:00",
+        "title": "Lecţii de viaţă 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "15:00",
+        "title": "La Maruţă",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "17:00",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "18:00",
+        "title": "Batem palma?",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "19:00",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "20:30",
+        "title": "Las fierbinți ACUM 👉 Vezi detalii",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Pro TV",
+        "time": "21:30",
+        "title": "Trădătorii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "23:30",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "00:00",
+        "title": "12 încercări 15",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "02:15",
+        "title": "Lecţii de viaţă                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "03:00",
+        "title": "Vorbeşte lumea                                     (R) AP 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "05:00",
+        "title": "Batem palma?                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Pro TV",
+        "time": "06:00",
+        "title": "Ştirile Pro Tv 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "08:00",
+        "title": "Neatza cu Răzvan şi Dani",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "12:00",
+        "title": "Observator 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "14:00",
+        "title": "Mireasa                        Sezonul 12 - Episodul",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "17:00",
+        "title": "Observator 👉 Vezi detalii",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "18:00",
+        "title": "Medicool",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "19:00",
+        "title": "Observator                                                 - Sport/Meteo",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "20:30",
+        "title": "Asia Express - Drumul Eroilor ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Antena 1",
+        "time": "00:00",
+        "title": "Observator                                                 - Observator/Sport/IQ Financiar",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "00:45",
+        "title": "The Ticket                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "05:00",
+        "title": "Medicool                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena 1",
+        "time": "06:00",
+        "title": "Observator                                                 - Sport/Meteo/IQ Financiar",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "07:00",
+        "title": "Digimatinal",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "09:00",
+        "title": "Știrile dimineții",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "12:00",
+        "title": "Știrile amiezii",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "15:00",
+        "title": "Studio politic",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "16:00",
+        "title": "Știrile zilei",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "19:00",
+        "title": "Business Club",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "19:50",
+        "title": "Știri sport",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "20:00",
+        "title": "Editie speciala                                                 - cu Claudiu Pandaru ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Digi24",
+        "time": "23:00",
+        "title": "Știrile serii",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "01:00",
+        "title": "Editie speciala                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "04:00",
+        "title": "Studio politic                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "05:00",
+        "title": "Business Club                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Digi24",
+        "time": "05:50",
+        "title": "Stirile diminetii",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "07:40",
+        "title": "Joaca de-a spionii",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "09:05",
+        "title": "Revelația",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "10:55",
+        "title": "Cadoul",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "12:20",
+        "title": "Dungeons & Dragons: Frăția hoților",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "14:25",
+        "title": "Steve Jobs",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "16:25",
+        "title": "O noapte la muzeu",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "18:10",
+        "title": "Simone",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "20:00",
+        "title": "Joc periculos ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "FilmNow",
+        "time": "21:35",
+        "title": "Zi de instrucție",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "23:30",
+        "title": "Coarne",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "01:25",
+        "title": "Un pic însărcinată",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "03:35",
+        "title": "Joe",
+        "live": ""
+    },
+    {
+        "channel": "FilmNow",
+        "time": "05:30",
+        "title": "Hai! Ne Batem!",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "07:00",
+        "title": "Telematinal",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "07:55",
+        "title": "Povestea zilei",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "08:00",
+        "title": "Telematinal",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "08:55",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "09:00",
+        "title": "Dimineti perfecte",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "09:55",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "10:00",
+        "title": "Telescoala in limba maghiara",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "10:55",
+        "title": "Memoria tiparului",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "11:00",
+        "title": "Toţi împreună",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "12:50",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "13:05",
+        "title": "Toţi împreună",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "13:30",
+        "title": "Identitate Basarabia",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "13:55",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "14:00",
+        "title": "Tableta de sănătate",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "14:55",
+        "title": "Art pass",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "15:00",
+        "title": "Ia’şi descopera",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "16:00",
+        "title": "Forum economic",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "16:55",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "17:00",
+        "title": "Telejurnal regional",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "17:30",
+        "title": "Lumea de aproape",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "17:55",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "18:00",
+        "title": "TV Retro",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "18:30",
+        "title": "TV Retro",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "19:00",
+        "title": "Provocarea regiunilor",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "19:55",
+        "title": "Art pass",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "20:00",
+        "title": "TV Retro ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "TVR3",
+        "time": "21:55",
+        "title": "Memoria tiparului",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "22:00",
+        "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "00:00",
+        "title": "TV Retro                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "00:30",
+        "title": "TV Retro                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "01:00",
+        "title": "Provocarea regiunilor                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "01:55",
+        "title": "Art pass",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "02:00",
+        "title": "TV Retro                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "03:55",
+        "title": "Memoria tiparului",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "04:00",
+        "title": "Toţi împreună                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "05:55",
+        "title": "Art pass",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "06:00",
+        "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+        "live": ""
+    },
+    {
+        "channel": "TVR3",
+        "time": "06:55",
+        "title": "Imnul  României",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "07:00",
+        "title": "Cele mai frumoase călătorii cu trenul                        Sezonul 5 - Episodul 2  - California",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "08:00",
+        "title": "Unde se află oamenii sălbatici cu Ben Fogle                        Sezonul 7 - Episodul 6  - Ethiopia",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "09:00",
+        "title": "Sub zero grade                        Sezonul 11 - Episodul 14  - Transitions",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "10:05",
+        "title": "Lumea secretă a Pompeiului                        Sezonul 1 - Episodul 2",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "11:10",
+        "title": "În interiorul fabricii                        Sezonul 7 - Episodul 7  - Vegan Sausages",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "12:20",
+        "title": "Horizon: Pluto - Înapoi din morți                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "13:35",
+        "title": "Africa                        Sezonul 1 - Episodul 4  - Cape",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "14:40",
+        "title": "Cele mai frumoase călătorii cu trenul                        Sezonul 5 - Episodul 3  - Peak District",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "15:45",
+        "title": "Sub zero grade                        Sezonul 11 - Episodul 15  - The Way of the Bear",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "16:45",
+        "title": "Unde se află oamenii sălbatici cu Ben Fogle                        Sezonul 7 - Episodul 7  - Panama",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "17:45",
+        "title": "Tutankhamon: viața, moartea și moștenirea sa                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "18:50",
+        "title": "Japonia cu Sue Perkins                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "20:00",
+        "title": "Sub zero grade                        Sezonul 12 - Episodul 7  - Return of the Herd ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "21:00",
+        "title": "Unde se află oamenii sălbatici cu Ben Fogle                        Sezonul 11 - Episodul 1  - Norway",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "22:00",
+        "title": "Japonia cu Sue Perkins                        Sezonul 1 - Episodul 2",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "23:10",
+        "title": "Pescuit imposibil                        Sezonul 1 - Episodul 1  - Kenya",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "00:15",
+        "title": "Iulius Cezar: apariția unui dictator #Broadcast                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "01:20",
+        "title": "Ben Fogle: Întoarcere în sălbăticie                        Sezonul 1 - Episodul 3  - Hungary",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "02:30",
+        "title": "Sub zero grade                        Sezonul 12 - Episodul 7  - Return of the Herd",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "03:20",
+        "title": "Unde se află oamenii sălbatici cu Ben Fogle                        Sezonul 11 - Episodul 1  - Norway",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "04:05",
+        "title": "Japonia cu Sue Perkins                        Sezonul 1 - Episodul 2",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "04:55",
+        "title": "Pescuit imposibil                        Sezonul 1 - Episodul 1  - Kenya",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "05:45",
+        "title": "Iulius Cezar: apariția unui dictator #Broadcast                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "06:40",
+        "title": "Mamifere: Making of                        Sezonul 1 - Episodul 1",
+        "live": ""
+    },
+    {
+        "channel": "BBC Earth",
+        "time": "06:50",
+        "title": "Mamifere: Making of                        Sezonul 1 - Episodul 2",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "07:00",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "07:10",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "07:30",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "07:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "07:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "08:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "08:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "08:35",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "08:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "09:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "09:25",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "09:35",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "09:55",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "10:05",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "10:20",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "10:30",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "10:45",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "10:55",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "11:15",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "11:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "11:45",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "11:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "12:15",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "12:25",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "12:35",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "12:50",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "13:00",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "13:20",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "13:30",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "13:50",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "14:00",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "14:15",
+        "title": "Draculaş, vampirul iepuraş",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "14:25",
+        "title": "Draculaş, vampirul iepuraş",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "14:45",
+        "title": "Clarence",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "14:55",
+        "title": "Clarence",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "15:15",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "15:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "15:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "15:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "16:10",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "16:20",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "16:30",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "16:40",
+        "title": "Grădiniţa Dramei Totale",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "17:00",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "17:10",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "17:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "17:40",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "18:00",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "18:10",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "18:25",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "18:35",
+        "title": "Craig și dumbrava",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "18:55",
+        "title": "Clarence",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "19:05",
+        "title": "Clarence",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "19:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "19:35",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "19:50",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "20:00",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "20:20",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "20:30",
+        "title": "Haideți tineri titani! ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "20:50",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "21:00",
+        "title": "Haideți tineri titani!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "21:15",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "21:25",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "21:45",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "21:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "22:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "22:25",
+        "title": "Să-nceapă aventura!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "22:35",
+        "title": "Să-nceapă aventura!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "22:55",
+        "title": "Să-nceapă aventura!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "23:05",
+        "title": "Să-nceapă aventura!",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "23:20",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "23:30",
+        "title": "Minunata și năstrușnica lume a lui Gumball",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "23:45",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "00:00",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "00:15",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "00:25",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "00:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "00:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "01:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "01:20",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "01:30",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "01:50",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "02:00",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "02:10",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "02:25",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "02:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "02:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "03:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "03:25",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "03:35",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "03:50",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "04:00",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "04:20",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "04:30",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "04:50",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "04:57",
+        "title": "Lamput",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "05:00",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "05:10",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "05:30",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "05:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "05:55",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "06:05",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "06:25",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "06:36",
+        "title": "Lamput",
+        "live": ""
+    },
+    {
+        "channel": "Cartoon Network",
+        "time": "06:40",
+        "title": "Uimitoarea lume a lui Gumball AG",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "07:00",
+        "title": "Infidelul  (R)",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "08:00",
+        "title": "Follow us",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "10:00",
+        "title": "Casa iubirii",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "12:00",
+        "title": "Știrile Kanal D",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "13:00",
+        "title": "În căutarea adevărului AP",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "15:00",
+        "title": "Jocul cuvintelor cu Dan Negru AP",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "16:30",
+        "title": "Casa iubirii",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "19:00",
+        "title": "Știrile Kanal D",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "20:00",
+        "title": "Fata de la fereastră ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Kanal D",
+        "time": "22:45",
+        "title": "Eu cu cine rămân?                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "00:45",
+        "title": "Casa iubirii                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "05:30",
+        "title": "Știrile Kanal D                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Kanal D",
+        "time": "06:00",
+        "title": "Infidelul",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "08:00",
+        "title": "Meniu de vedetă",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "08:30",
+        "title": "Mireasa - Capriciile Iubirii                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "11:00",
+        "title": "Știrile Antena Stars",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "12:30",
+        "title": "Mireasa",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "13:30",
+        "title": "Viaţa Fără Filtru",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "16:00",
+        "title": "Acces direct",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "19:00",
+        "title": "Mireasa - Capriciile Iubirii ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "21:30",
+        "title": "SPYNEWS TV LIVE",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "22:30",
+        "title": "Un show păcătos",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "01:00",
+        "title": "Acces direct                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "03:45",
+        "title": "Spynews Tv Live                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "04:30",
+        "title": "Știrile Antena Stars                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "05:45",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "Antena Stars",
+        "time": "06:00",
+        "title": "Viaţa Fără Filtru                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "07:00",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "07:45",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "08:00",
+        "title": "Știrile dimineții",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "08:45",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "09:00",
+        "title": "Știrile dimineții",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "09:45",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "10:00",
+        "title": "Stiri cu Ana Iorga",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "11:00",
+        "title": "NewsRoom cu Madalina Mihalache",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "12:00",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "13:00",
+        "title": "NewsRoom",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "14:00",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "15:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "16:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "17:00",
+        "title": "Decisiv cu Madalina Mihalache, Catalina Porumbel și Gina Vacariu",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "18:00",
+        "title": "News Hour With CNN cu Ana Roman, Sabrina Preda și Ana Roman",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "19:00",
+        "title": "Top News cu Sabina Iosub si Radu Tudor",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "20:00",
+        "title": "Subiectiv ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "Antena 3",
+        "time": "21:00",
+        "title": "Sinteza zilei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "22:00",
+        "title": "Sinteza zilei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "22:30",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "23:00",
+        "title": "Sinteza zilei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "23:30",
+        "title": "În gura presei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "00:00",
+        "title": "În gura presei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "00:30",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "01:00",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "02:00",
+        "title": "Sinteza zilei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "02:30",
+        "title": "In Fata Natiunii cu Sabina Iosub si Mircea Badea, reluare",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "03:00",
+        "title": "Sinteza zilei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "04:00",
+        "title": "În gura presei",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "05:00",
+        "title": "News Hour With CNN cu Ana Roman, Sabrina Preda și Ana Roman, reluare",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "06:00",
+        "title": "Ştiri",
+        "live": ""
+    },
+    {
+        "channel": "Antena 3",
+        "time": "06:45",
+        "title": "Teleshopping",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "07:00",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "07:15",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "07:30",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "08:00",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "08:15",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "08:30",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "09:00",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "09:15",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "09:30",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "10:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "10:15",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "10:30",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "11:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "11:31",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "11:45",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "12:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "12:15",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "12:30",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "13:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "13:15",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "13:30",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "13:46",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "14:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "14:15",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "14:30",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "14:49",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "15:00",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "15:15",
+        "title": "Euronews Now",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "15:31",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "15:44",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "16:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "16:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "17:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "17:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "17:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "18:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "18:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "18:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "19:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "19:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "19:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "20:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "20:14",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "20:29",
+        "title": "News ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "EuroNews",
+        "time": "20:52",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "21:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "21:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "21:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "21:50",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "22:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "22:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "22:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "22:49",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "23:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "23:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "23:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "00:00",
+        "title": "The European debrief.",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "00:15",
+        "title": "The European debrief.",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "00:30",
+        "title": "The European debrief.",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "00:46",
+        "title": "News.",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "01:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "01:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "01:31",
+        "title": "News",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "02:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "02:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "02:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "03:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "03:14",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "03:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "04:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "04:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "04:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "05:00",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "05:15",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "05:30",
+        "title": "The European debrief",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "06:00",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "06:15",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "EuroNews",
+        "time": "06:30",
+        "title": "Wake up Europe",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "07:00",
+        "title": "Kite masters 2019/2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "07:30",
+        "title": "Kite masters 2019/2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "08:00",
+        "title": "Speed catamarans gc32 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "08:30",
+        "title": "Speed catamarans gc32 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "09:00",
+        "title": "Sports max",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "09:45",
+        "title": "Andalucia bike race 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "10:00",
+        "title": "Rolex new york yacht club invitational cup",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "10:30",
+        "title": "Rolex new york yacht club invitational cup",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "11:00",
+        "title": "Better than four ep. 11",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "11:30",
+        "title": "Better than four ep. 12",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "12:00",
+        "title": "Racemax motorsports",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "12:30",
+        "title": "Racemax motorsports",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "13:00",
+        "title": "World of watersports",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "13:45",
+        "title": "Andalucia bike race 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "14:00",
+        "title": "World of freesports 2021",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "14:30",
+        "title": "World of freesports 2021",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "15:00",
+        "title": "Gp racing 2022",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "15:30",
+        "title": "Gp racing 2022",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "16:00",
+        "title": "Sailing to tokyo 2019/2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "16:30",
+        "title": "Sailing to tokyo 2019/2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "17:00",
+        "title": "Hankook 24h series 2022",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "18:00",
+        "title": "Autospeed 2022",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "18:30",
+        "title": "Autospeed 2022",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "19:00",
+        "title": "Board stories surfing",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "19:30",
+        "title": "Board stories surfing",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "20:00",
+        "title": "Supercar tv",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "20:30",
+        "title": "Supercar tv",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "21:00",
+        "title": "The electric future",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "22:00",
+        "title": "Boat show 4k - s6",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "22:30",
+        "title": "Boat show 4k - s6",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "23:00",
+        "title": "Fia pure motorsport 2021",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "23:30",
+        "title": "Fia pure motorsport 2021",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "00:00",
+        "title": "Gearing up 2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "00:30",
+        "title": "Gearing up 2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "01:00",
+        "title": "Inside sailing 2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "01:30",
+        "title": "Inside sailing 2020",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "02:00",
+        "title": "Cape epic 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "02:30",
+        "title": "Cape epic 2019",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "03:00",
+        "title": "The electric future",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "04:00",
+        "title": "Board stories surfing",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "04:30",
+        "title": "Board stories surfing",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "05:00",
+        "title": "Supercar tv",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "05:30",
+        "title": "Supercar tv",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "06:00",
+        "title": "Sports max",
+        "live": ""
+    },
+    {
+        "channel": "Prima Sport1",
+        "time": "06:45",
+        "title": "Andalucia bike race 2019 ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "07:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "08:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "09:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "10:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "11:00",
+        "title": "Ştirile Romania TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "12:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "13:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "14:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "15:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "16:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "17:00",
+        "title": "Cheia zilei",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "18:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "19:00",
+        "title": "Ultima oră",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "20:00",
+        "title": "România la raport ACUM",
+        "live": "ACUM"
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "21:00",
+        "title": "Punctul culminant",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "23:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "00:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "01:00",
+        "title": "Punctul culminant                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "02:00",
+        "title": "Punctul culminant                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "03:00",
+        "title": "Ultima ora                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "04:00",
+        "title": "România la raport                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "05:00",
+        "title": "Ştirile România TV                                     (R)",
+        "live": ""
+    },
+    {
+        "channel": "RomaniaTV",
+        "time": "06:00",
+        "title": "Ştirile România TV",
+        "live": ""
+    }
+]

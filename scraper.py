@@ -9,6 +9,7 @@ HEADERS = {
 
 CHANNEL_URLS = {
     "HBO": "https://programtv.ro/canal-tv/hbo",
+    "HBO2": "https://programtv.ro/canal-tv/hbo-2",
     "PROTV": "https://programtv.ro/canal-tv/pro-tv",
     "ANTENA1": "https://programtv.ro/canal-tv/antena-1",
     "Digi24 HD": "https://programtv.ro/canal-tv/digi-24",
@@ -25,8 +26,8 @@ CHANNEL_URLS = {
     "TVR1": "https://programtv.ro/canal-tv/tvr-1",
     "National Geographic": "https://programtv.ro/canal-tv/national-geographic",
     "Euro Sport 1":"https://programtv.ro/canal-tv/eurosport-1",
-    "Pro Cinema": "https://programtv.ro/canal-tv/pro-cinema",
-    "Digi Sport": "https://programtv.ro/canal-tv/digi-sport-1",
+    "PROCINEMA": "https://programtv.ro/canal-tv/pro-cinema",
+    "DigiSport 1": "https://programtv.ro/canal-tv/digi-sport-1",
     "Prima TV": "https://programtv.ro/canal-tv/prima-tv",
     "TVR2": "https://programtv.ro/canal-tv/tvr-2",
     "HBO2": "https://programtv.ro/canal-tv/hbo-2",
@@ -57,7 +58,8 @@ CHANNEL_URLS = {
     "TVR International": "https://programtv.ro/canal-tv/tvr-international",
     "MTV Europe": "https://programtv.ro/canal-tv/mtv-europe",
     "TVR Info": "https://programtv.ro/canal-tv/tvr-info",
-    "Kiss TV": "https://programtv.ro/canal-tv/kiss-tv"
+    "Kiss TV": "https://programtv.ro/canal-tv/kiss-tv",
+    "B1": "https://programtv.ro/canal-tv/b1-tv"
 }
 
 def scrape_programtv(channel_name, url):

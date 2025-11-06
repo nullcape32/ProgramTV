@@ -1385,5 +1385,27 @@
             "06:10 - Zoom In 18",
             "06:20 - Cu foamea-n gât"
         ]
+    },
+    {
+        "id": 91,
+        "tv_channel": "DigiSport 2",
+        "tv_program": [
+            "07:00 - Tenis",
+            "08:00 - Tenis",
+            "10:00 - Tenis",
+            "12:00 - Tenis",
+            "14:00 - LIVE Tenis: WTA Finals Riyadh Ziua 6",
+            "15:30 - Stirile Digi Sport",
+            "16:00 - LIVE Tenis: WTA Finals Riyadh",
+            "17:30 - LIVE Tenis: WTA Finals Riyadh",
+            "20:00 - LIVE Tenis: WTA Finals Riyadh",
+            "21:30 - Stirile Digi Sport",
+            "21:45 - LIVE Euro Fotbal",
+            "22:45 - Stirile Digi Sport",
+            "23:00 - Tenis",
+            "01:00 - Tenis",
+            "03:00 - Tenis",
+            "05:30 - LIVE Patinaj Artistic: ISU Grand Prix – Osaka Ice Dance (Rhythm Dance)"
+        ]
     }
 ]

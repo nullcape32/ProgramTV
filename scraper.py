@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
+import re
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -92,7 +93,17 @@ def scrape_programtv(channel_name, url):
         live = f" ({live_tag.get_text(strip=True)})" if live_tag else ""
 
         if title:
-            program_list.append(f"{time} - {title}{live}".strip())
+            full_text = f"{time} - {title}{live}".strip()
+
+            # Remove unwanted text fragments
+            full_text = re.sub(r"👉 Vezi detalii", "", full_text, flags=re.IGNORECASE)
+            full_text = re.sub(r"\(ACUM\)", "", full_text, flags=re.IGNORECASE)
+            full_text = re.sub(r"\bACUM\b", "", full_text, flags=re.IGNORECASE)
+
+            # Clean up extra spaces
+            full_text = re.sub(r"\s{2,}", " ", full_text).strip()
+
+            program_list.append(full_text)
 
     return program_list
 
@@ -101,10 +112,11 @@ def scrape_all_channels(channel_urls):
     """Scrape all channels and format output for JSON"""
     all_channels = []
 
-    for name, url in channel_urls.items():
+    for i, (name, url) in enumerate(channel_urls.items(), start=1):
         print(f"🔎 Scraping {name}...")
         program = scrape_programtv(name, url)
         all_channels.append({
+            "id": f"{i:02}",
             "tv_channel": name,
             "tv_program": program
         })

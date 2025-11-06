@@ -202,7 +202,21 @@
     {
         "id": 9,
         "tv_channel": "Kanal D",
-        "tv_program": []
+        "tv_program": [
+            "07:00 - Infidelul",
+            "08:00 - Follow us",
+            "10:00 - Casa iubirii",
+            "12:00 - Știrile Kanal D",
+            "13:00 - În căutarea adevărului AP",
+            "15:00 - Jocul cuvintelor cu Dan Negru AP",
+            "16:30 - Casa iubirii",
+            "19:00 - Știrile Kanal D",
+            "20:00 - Fata de la fereastră",
+            "22:45 - Hai ca poti! (R)",
+            "01:30 - Casa iubirii (R)",
+            "05:30 - Știrile Kanal D (R)",
+            "06:00 - Infidelul (R)"
+        ]
     },
     {
         "id": 10,

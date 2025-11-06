@@ -59,7 +59,7 @@ CHANNEL_URLS = {
     "France24": {"url": "https://programtv.ro/canal-tv/france-24", "id": 74},
     "TVR Sport": {"url": "https://programtv.ro/canal-tv/tvr-sport", "id": 77},
     "Romania TV": {"url": "https://programtv.ro/canal-tv/romania-tv", "id": 78},
-    "TVR RETRO": {"url": "https://programtv.ro/canal-tv/tvr-retro", "id": 79}
+    "AMC": {"url": "https://programtv.ro/canal-tv/amc", "id": 23}
 }
 
 def scrape_programtv(channel_name, url):

@@ -106,7 +106,7 @@
             "18:00 - Medicool",
             "19:00 - Observator - Sport/Meteo",
             "20:30 - Ana, mi-ai fost scrisă în ADN",
-            "23:30 - Observator - Observator/Sport/IQ Financiar",
+            "23:30 - Observator/Sport/IQ Financiar",
             "00:45 - Asia Express - Drumul Eroilor (R)",
             "04:00 - Ești mai deștept decât un copil de clasa a V-a? (R)",
             "05:00 - Medicool (R)",
@@ -444,45 +444,45 @@
         "id": 20,
         "tv_channel": "HBO",
         "tv_program": [
-            "07:45 - Pasagerii - Pasagerii",
-            "09:40 - O zi minunată în cartier - O zi minunată în cartier",
-            "11:30 - Neuilly-Poissy - Neuilly-Poissy",
-            "13:05 - Insula câinilor - Insula câinilor",
-            "14:45 - La o vârstă - La o vârstă",
-            "16:25 - Ricki și the Flash - Ricki și the Flash",
-            "18:05 - În căutarea fericirii - În căutarea fericirii",
-            "20:00 - Dl. Aznavour - Dl. Aznavour",
-            "22:15 - Doctor de provincie - Doctor de provincie",
+            "07:45 - Pasagerii",
+            "09:40 - O zi minunată în cartier",
+            "11:30 - Neuilly-Poissy",
+            "13:05 - Insula câinilor",
+            "14:45 - La o vârstă",
+            "16:25 - Ricki și the Flash",
+            "18:05 - În căutarea fericirii",
+            "20:00 - Dl. Aznavour",
+            "22:15 - Doctor de provincie",
             "23:00 - Oameni din Florida Sezonul 1 - Episodul 6 - Oameni din Florida - Ep. 6: Poza din arest",
             "23:25 - Cimpanzei Sezonul 1 - Episodul 1 - Cimpanzei - Ep. 1: Iubirea pentru maimuțe",
-            "00:25 - Am văzut strălucirea televizorului - Am văzut strălucirea televizorului",
-            "02:05 - Sfârșitul - Sfârșitul",
-            "04:30 - Unitatea 234 - Unitatea 234",
-            "06:00 - Ricki și the Flash - Ricki și the Flash"
+            "00:25 - Am văzut strălucirea televizorului",
+            "02:05 - Sfârșitul",
+            "04:30 - Unitatea 234",
+            "06:00 - Ricki și the Flash"
         ]
     },
     {
         "id": 21,
         "tv_channel": "HBO_2",
         "tv_program": [
-            "07:00 - Campioni - Campioni",
-            "08:55 - Războinicul Vânător și Crăiasa Zăpezii - Războinicul Vânător și Crăiasa Zăpezii",
-            "10:45 - Familia Addams - Familia Addams",
-            "12:10 - Familia Addams 2 - Familia Addams 2",
+            "07:00 - Campioni",
+            "08:55 - Războinicul Vânător și Crăiasa Zăpezii",
+            "10:45 - Familia Addams",
+            "12:10 - Familia Addams 2",
             "13:40 - Prietenii tăi Sezonul 3 - Episodul 6 - Prietenii tăi - III, Ep. 6: Cel cu amintirile",
             "14:00 - Prietenii tăi Sezonul 3 - Episodul 7 - Prietenii tăi - III, Ep. 7: Cel cu patul în formă de mașină",
             "14:25 - Everest: Cu preţul vieţii - Everest",
-            "16:20 - Warcraft. Începutul - Warcraft. Începutul",
-            "18:20 - Sunt încă aici - Sunt încă aici",
-            "20:30 - Wildcat - Wildcat",
-            "22:15 - Fuga - Fuga",
+            "16:20 - Warcraft. Începutul",
+            "18:20 - Sunt încă aici",
+            "20:30 - Wildcat",
+            "22:15 - Fuga",
             "00:10 - The Chair Company Sezonul 1 - Episodul 4 - The Chair Company - Ep. 4",
             "00:40 - Străina: Sânge din sângele meu Sezonul 1 - Episodul 6 - Străina: Sânge din sângele meu - Ep. 6: Drept din naștere",
             "01:35 - Sensul lucrurilor Sezonul 1 - Episodul 5 - Sensul lucrurilor - Ep. 5: Fiul rebel",
             "02:05 - Los Angeles, dragostea mea Sezonul 1 - Episodul 1 - Los Angeles, dragostea mea - Ep. 1: Blocat",
-            "02:35 - O ultimă scufundare - O ultimă scufundare",
-            "04:10 - The Alto Knights - The Alto Knights",
-            "06:10 - 38 de puncte la Garden - 38 de puncte la Garden"
+            "02:35 - O ultimă scufundare",
+            "04:10 - The Alto Knights",
+            "06:10 - 38 de puncte la Garden"
         ]
     },
     {
@@ -835,11 +835,6 @@
         ]
     },
     {
-        "id": 37,
-        "tv_channel": "CNBC News",
-        "tv_program": []
-    },
-    {
         "id": 38,
         "tv_channel": "PRS-1",
         "tv_program": [
@@ -927,34 +922,34 @@
         "id": 40,
         "tv_channel": "ER1",
         "tv_program": [
-            "08:30 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "12:00 - Schi Alpin - SCHI ALPIN",
-            "12:45 - Schi Alpin - SCHI ALPIN",
-            "13:30 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "17:00 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "19:00 - Ciclism: Paris - Roubaix - - Ciclism: Paris - Roubaix -",
-            "21:00 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "23:00 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "01:00 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "03:00 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "06:00 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală"
+            "08:30 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "12:00 - Schi Alpin",
+            "12:45 - Schi Alpin",
+            "13:30 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "17:00 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "19:00 - Ciclism: Paris - Roubaix -",
+            "21:00 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "23:00 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "01:00 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "03:00 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "06:00 - Snooker: Campionatul Internațional - Sferturi de finală"
         ]
     },
     {
         "id": 41,
         "tv_channel": "ER2",
         "tv_program": [
-            "09:00 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin",
-            "10:00 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Masculin - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Masculin",
-            "11:00 - Ciclism: Turul Lombardiei - - Ciclism: Turul Lombardiei -",
-            "13:30 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "17:00 - Ciclism: Turul Lombardiei - - Ciclism: Turul Lombardiei -",
-            "19:00 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "20:30 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "22:00 - Golf: Circuitul PGA - Campionatul Los Cabos - Golf: Circuitul PGA - Campionatul Los Cabos",
-            "01:00 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans",
-            "03:00 - Snooker: Campionatul Internațional - Sferturi de finală - Snooker: Campionatul Internațional - Sferturi de finală",
-            "06:00 - Anduranță auto: FIA WEC - Lone Star Le Mans - Anduranță auto: FIA WEC - Lone Star Le Mans"
+            "09:00 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin",
+            "10:00 - Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Masculin",
+            "11:00 - Ciclism: Turul Lombardiei -",
+            "13:30 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "17:00 - Ciclism: Turul Lombardiei -",
+            "19:00 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "20:30 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "22:00 - Golf: Circuitul PGA - Campionatul Los Cabos",
+            "01:00 - Anduranță auto: FIA WEC - Lone Star Le Mans",
+            "03:00 - Snooker: Campionatul Internațional - Sferturi de finală",
+            "06:00 - Anduranță auto: FIA WEC - Lone Star Le Mans"
         ]
     },
     {

@@ -17,7 +17,7 @@ CHANNEL_URLS = {
     "ANTENA1": {"url": "https://programtv.ro/canal-tv/antena-1", "id": 8},
     "TVR1": {"url": "https://programtv.ro/canal-tv/tvr-1", "id": 4},
     "TVR2": {"url": "https://programtv.ro/canal-tv/tvr-2", "id": 5},
-    "Kanal D": {"url": "https://programtv.ro/canal-tv/kanal-d-", "id": 9},
+    "Kanal D": {"url": "https://programtv.ro/canal-tv/kanal-d", "id": 9},
     "Prima TV": {"url": "https://programtv.ro/canal-tv/prima-tv", "id": 10},
     "TVR3": {"url": "https://programtv.ro/canal-tv/tvr-3", "id": 11},
     "TVR International": {"url": "https://programtv.ro/canal-tv/tvr-international", "id": 12},

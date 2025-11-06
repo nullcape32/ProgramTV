@@ -42,7 +42,7 @@ CHANNEL_URLS = {
     "BBC-NEWS": {"url": "https://programtv.ro/canal-tv/bbc-news", "id": 35},
     "CBS-REALITY": {"url": "https://programtv.ro/canal-tv/cbs-reality", "id": 36},
     "PRS-1": {"url": "https://programtv.ro/canal-tv/prima-sport-1", "id": 38},
-    "PRS-2": {"url": "https://programtv.ro/canal-tv/prima-sport-ppv2", "id": 39},
+    "PRS-2": {"url": "https://programtv.ro/canal-tv/prima-sport-2", "id": 39},
     "ER1": {"url": "https://programtv.ro/canal-tv/eurosport-1", "id": 40},
     "ER2": {"url": "https://programtv.ro/canal-tv/eurosport-2", "id": 41},
     "CARTOON": {"url": "https://programtv.ro/canal-tv/cartoon-network", "id": 42},

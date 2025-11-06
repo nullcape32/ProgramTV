@@ -47,7 +47,7 @@ CHANNEL_URLS = {
     "ER2": {"url": "https://programtv.ro/canal-tv/eurosport-2", "id": 41},
     "CARTOON": {"url": "https://programtv.ro/canal-tv/cartoon-network", "id": 42},
     "DISCOVERY-CHANNEL": {"url": "https://programtv.ro/canal-tv/discovery-channel", "id": 44},
-    "VIA-HIS": {"url": "https://programtv.ro/canal-tv/viasat-history", "id": 44},
+    "VIA-HIS": {"url": "https://programtv.ro/canal-tv/viasat-history-hd", "id": 44},
     "VIA-EXPLORER": {"url": "https://programtv.ro/canal-tv/viasat-explorer", "id": 46},
     "BBC-EARTH": {"url": "https://programtv.ro/canal-tv/bbc-earth", "id": 47},
     "Rock TV": {"url": "https://programtv.ro/canal-tv/rock-tv", "id": 50},

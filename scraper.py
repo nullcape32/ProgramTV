@@ -10,57 +10,10 @@ HEADERS = {
 
 # Channel URLs with their corresponding IDs from your previous list
 CHANNEL_URLS = {
-    "DIGI24 HD": {"url": "https://programtv.ro/canal-tv/digi-24", "id": 1},
-    "ANTENA3": {"url": "https://programtv.ro/canal-tv/antena-3-cnn", "id": 2},
-    "B1": {"url": "https://programtv.ro/canal-tv/b1-tv", "id": 3},
-    "PROTV": {"url": "https://programtv.ro/canal-tv/pro-tv", "id": 7},
-    "ANTENA1": {"url": "https://programtv.ro/canal-tv/antena-1", "id": 8},
-    "TVR1": {"url": "https://programtv.ro/canal-tv/tvr-1", "id": 4},
-    "TVR2": {"url": "https://programtv.ro/canal-tv/tvr-2", "id": 5},
-    "Kanal D": {"url": "https://programtv.ro/canal-tv/kanal-d", "id": 9},
-    "Prima TV": {"url": "https://programtv.ro/canal-tv/prima-tv", "id": 10},
-    "TVR3": {"url": "https://programtv.ro/canal-tv/tvr-3", "id": 11},
-    "TVR International": {"url": "https://programtv.ro/canal-tv/tvr-international", "id": 12},
-    "Digi 24": {"url": "https://programtv.ro/canal-tv/digi-24", "id": 13},
-    "PROCINEMA": {"url": "https://programtv.ro/canal-tv/pro-cinema", "id": 14},
-    "ANTENA STARS": {"url": "https://programtv.ro/canal-tv/antena-stars-", "id": 15},
-    "National Geographic": {"url": "https://programtv.ro/canal-tv/national-geographic", "id": 16},
-    "TVR Cultural": {"url": "https://programtv.ro/canal-tv/tvr-cultural", "id": 17},
     "HBO": {"url": "https://programtv.ro/canal-tv/hbo", "id": 20},
-    "HBO_2": {"url": "https://programtv.ro/canal-tv/hbo-2", "id": 21},
-    "FilmNow": {"url": "https://programtv.ro/canal-tv/film-now", "id": 25},
-    "Atomic-TV": {"url": "https://programtv.ro/canal-tv/atomic-tv", "id": 26},
-    "ZU-TV": {"url": "https://programtv.ro/canal-tv/zu-tv", "id": 27},
-    "MUSIC-CHANNEL": {"url": "https://programtv.ro/canal-tv/music-channel", "id": 28},
-    "KISS-TV": {"url": "https://programtv.ro/canal-tv/kiss-tv", "id": 29},
-    "TVR Folclor": {"url": "https://programtv.ro/canal-tv/tvr-folclor", "id": 30},
-    "ETNO TV": {"url": "https://programtv.ro/canal-tv/etno-tv", "id": 80},
-    "REALITATEA": {"url": "https://programtv.ro/canal-tv/realitatea-plus", "id": 31},
-    "PRIMA-NEWS": {"url": "https://programtv.ro/canal-tv/prima-news", "id": 32},
-    "EURO-NEWS": {"url": "https://programtv.ro/canal-tv/euronews", "id": 33},
-    "CNN-LIVE": {"url": "https://programtv.ro/canal-tv/cnn", "id": 34},
-    "BBC-NEWS": {"url": "https://programtv.ro/canal-tv/bbc-news", "id": 35},
-    "CBS-REALITY": {"url": "https://programtv.ro/canal-tv/cbs-reality", "id": 36},
-    "CNBC News": {"url": "https://programtv.ro/canal-tv/cnbc", "id": 37},
-    "PRS-1": {"url": "https://programtv.ro/canal-tv/prima-sport-1", "id": 38},
-    "PRS-2": {"url": "https://programtv.ro/canal-tv/prima-sport-ppv2", "id": 39},
-    "ER1": {"url": "https://programtv.ro/canal-tv/eurosport-1", "id": 40},
-    "ER2": {"url": "https://programtv.ro/canal-tv/eurosport-2", "id": 41},
-    "CARTOON": {"url": "https://programtv.ro/canal-tv/cartoon-network", "id": 42},
-    "DISCOVERY-CHANNEL": {"url": "https://programtv.ro/canal-tv/discovery-channel", "id": 44},
-    "VIA-HIS": {"url": "https://programtv.ro/canal-tv/viasat-history", "id": 44},
-    "VIA-EXPLORER": {"url": "https://programtv.ro/canal-tv/viasat-explorer", "id": 46},
-    "BBC-EARTH": {"url": "https://programtv.ro/canal-tv/bbc-earth", "id": 47},
-    "Rock TV": {"url": "https://programtv.ro/canal-tv/rock-tv", "id": 50},
-    "Canal32": {"url": "https://programtv.ro/canal-tv/canal-32", "id": 51},
-    "Magic TV": {"url": "https://programtv.ro/canal-tv/magic-tv", "id": 52},
-    "CBS News": {"url": "https://programtv.ro/canal-tv/cbs-news", "id": 55},
-    "DigiSport 1": {"url": "https://programtv.ro/canal-tv/digi-sport-1", "id": 56},
-    "France24": {"url": "https://programtv.ro/canal-tv/france-24", "id": 74},
-    "TVR Sport": {"url": "https://programtv.ro/canal-tv/tvr-sport", "id": 77},
-    "Romania TV": {"url": "https://programtv.ro/canal-tv/romania-tv", "id": 78},
-    "AMC": {"url": "https://programtv.ro/canal-tv/amc", "id": 23}
+    "HBO2": {"url": "https://programtv.ro/canal-tv/hbo-2", "id": 21},
 }
+
 
 def scrape_programtv(channel_name, url):
     """Scrape program list from programtv.ro channel page"""
@@ -94,10 +47,18 @@ def scrape_programtv(channel_name, url):
         if title:
             full_text = f"{time} - {title}{live}".strip()
 
-            # Remove unwanted text fragments
+            # Remove unwanted fragments
             full_text = re.sub(r"👉 Vezi detalii", "", full_text, flags=re.IGNORECASE)
             full_text = re.sub(r"\(ACUM\)", "", full_text, flags=re.IGNORECASE)
             full_text = re.sub(r"\bACUM\b", "", full_text, flags=re.IGNORECASE)
+
+            # Remove duplicated titles like "Pasagerii - Pasagerii"
+            full_text = re.sub(
+                r"^(.*? - )(.+?)\s*-\s*\2(\b|$)",  # regex pattern for repeated title
+                r"\1\2",
+                full_text,
+                flags=re.IGNORECASE
+            )
 
             # Clean up extra spaces
             full_text = re.sub(r"\s{2,}", " ", full_text).strip()

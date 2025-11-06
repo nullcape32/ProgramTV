@@ -37,7 +37,7 @@ CHANNEL_URLS = {
     "ETNO TV": {"url": "https://programtv.ro/canal-tv/etno-tv", "id": 80},
     "REALITATEA": {"url": "https://programtv.ro/canal-tv/realitatea-plus", "id": 31},
     "PRIMA-NEWS": {"url": "https://programtv.ro/canal-tv/prima-news", "id": 32},
-    "EURO-NEWS": {"url": "https://programtv.ro/canal-tv/euronews", "id": 33},
+    "EURO-NEWS": {"url": "https://programtv.ro/canal-tv/euronews-romania-hd", "id": 33},
     "CNN-LIVE": {"url": "https://programtv.ro/canal-tv/cnn", "id": 34},
     "BBC-NEWS": {"url": "https://programtv.ro/canal-tv/bbc-news", "id": 35},
     "CBS-REALITY": {"url": "https://programtv.ro/canal-tv/cbs-reality", "id": 36},

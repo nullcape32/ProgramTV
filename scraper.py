@@ -58,8 +58,8 @@ CHANNEL_URLS = {
     "France24": {"url": "https://programtv.ro/canal-tv/france-24", "id": 74},
     "TVR Sport": {"url": "https://programtv.ro/canal-tv/tvr-sport", "id": 77},
     "Romania TV": {"url": "https://programtv.ro/canal-tv/romania-tv", "id": 78},
-    "AMC": {"url": "https://programtv.ro/canal-tv/amc", "id": 23}
-"DigiSport 2": {"url": "https://programtv.ro/canal-tv/digi-sport-2", "id": 91}
+    "AMC": {"url": "https://programtv.ro/canal-tv/amc", "id": 23},
+    "DigiSport 2": {"url": "https://programtv.ro/canal-tv/digi-sport-2", "id": 91}
 
 }
 

@@ -23,7 +23,7 @@ CHANNEL_URLS = {
     "TVR International": {"url": "https://programtv.ro/canal-tv/tvr-international", "id": 12},
     "Digi 24": {"url": "https://programtv.ro/canal-tv/digi-24", "id": 13},
     "PROCINEMA": {"url": "https://programtv.ro/canal-tv/pro-cinema", "id": 14},
-    "ANTENA STARS": {"url": "https://programtv.ro/canal-tv/antena-stars-", "id": 15},
+    "ANTENA STARS": {"url": "https://programtv.ro/canal-tv/antena-stars", "id": 15},
     "National Geographic": {"url": "https://programtv.ro/canal-tv/national-geographic", "id": 16},
     "TVR Cultural": {"url": "https://programtv.ro/canal-tv/tvr-cultural", "id": 17},
     "HBO": {"url": "https://programtv.ro/canal-tv/hbo", "id": 20},

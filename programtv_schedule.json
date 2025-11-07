@@ -369,7 +369,22 @@
     {
         "id": 15,
         "tv_channel": "ANTENA STARS",
-        "tv_program": []
+        "tv_program": [
+            "08:00 - Meniu de vedetă",
+            "08:30 - Mireasa - Capriciile Iubirii (R)",
+            "11:00 - Știrile Antena Stars",
+            "12:30 - Mireasa",
+            "13:30 - Viaţa Fără Filtru",
+            "16:00 - Acces direct",
+            "19:00 - Mireasa - Capriciile Iubirii",
+            "21:30 - SPYNEWS TV LIVE",
+            "22:30 - Un show păcătos",
+            "01:00 - Acces direct (R)",
+            "03:45 - Spynews Tv Live (R)",
+            "04:30 - Știrile Antena Stars (R)",
+            "05:45 - Teleshopping",
+            "06:00 - Viaţa Fără Filtru (R)"
+        ]
     },
     {
         "id": 16,

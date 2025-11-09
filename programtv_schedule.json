@@ -99,13 +99,15 @@
         "id": 8,
         "tv_channel": "ANTENA1",
         "tv_program": [
-            "09:00 - Ana, mi-ai fost scrisă în ADN (R)",
-            "12:00 - Observator",
-            "14:00 - Hello Chef",
-            "15:00 - Te cunosc de undeva",
+            "09:00 - Neatza de weekend",
+            "13:00 - Observator",
+            "15:00 - The Ticket (R)",
             "19:00 - Observator - Sport/Meteo",
-            "20:00 - The Ticket",
-            "00:00 - Asia Express - Drumul Eroilor (R)",
+            "20:00 - Asia Express - Drumul Eroilor",
+            "23:30 - John Tucker trebuie să moară",
+            "01:30 - Prețul cel bun - (re-run)",
+            "03:15 - Hello Chef (R)",
+            "04:00 - John Tucker trebuie să moară (R)",
             "06:00 - Observator - Sport/Meteo/IQ Financiar"
         ]
     },

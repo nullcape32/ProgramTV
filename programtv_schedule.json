@@ -544,7 +544,31 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Today's Hitlist - TOP 10",
+            "11:00 - 11 Vids we're loving right now",
+            "12:00 - Versus",
+            "12:30 - Hot+Hits",
+            "13:00 - Streaming chart - This week's TOP 10",
+            "13:45 - Hot+Hits",
+            "14:00 - .Ro",
+            "14:30 - Hot+Hits",
+            "16:30 - Versus",
+            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
+            "17:30 - Social media chart",
+            "18:00 - TODAY'S HOT GIRLS",
+            "19:00 - Beats and massive r'n'b hits",
+            "20:00 - Hot+Hits",
+            "20:30 - 3 Play",
+            "20:45 - Hot+Hits",
+            "21:00 - H!T COLLECTION",
+            "22:00 - Alternative hour",
+            "23:00 - Today's Hitlist (R)",
+            "00:00 - Night Shift",
+            "06:00 - Morning Mix"
+        ]
     },
     {
         "id": 29,

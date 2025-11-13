@@ -581,7 +581,7 @@
             "13:00 - Kiss After School",
             "16:00 - Hits For Hours",
             "19:00 - Kiss Alert",
-            "21:00 - Big Beats",
+            "21:00 - Kiss Cinema",
             "02:00 - Kiss By Night",
             "06:00 - Rise & Kiss"
         ]
@@ -1400,21 +1400,19 @@
         "id": 23,
         "tv_channel": "AMC",
         "tv_program": [
-            "09:35 - O mie şi una de nopţi",
-            "11:40 - O mie şi una de nopţi",
-            "13:30 - Mythica: în căutarea eroilor",
-            "15:25 - Total Recall. Memorie programată",
-            "17:50 - Venom 15",
-            "20:05 - Bătălia dronelor",
-            "22:00 - Demon pe două roți",
-            "00:15 - Legea lui Banks",
-            "02:10 - Cavalerul de oțel",
+            "09:10 - Cele trei dorințe ale Cenușăresei",
+            "10:55 - Capcană pentru hoți",
+            "13:15 - Pentru un pumn de dolari",
+            "15:20 - Maestrul bețiv",
+            "17:45 - Mythica: Puterea cristalului întunecat",
+            "20:00 - Războiul minții",
+            "22:20 - Assassin’s Creed: Codul Asasinului",
+            "00:30 - Altitudine",
+            "02:20 - Cursa Mortală 4",
             "04:40 - Close Up 12",
-            "05:15 - Close Up 12",
-            "05:45 - Zoom In 18",
-            "06:00 - Zoom In 18",
-            "06:10 - Zoom In 18",
-            "06:20 - K-19: Submarinul ucigaș"
+            "05:10 - Close Up 12",
+            "05:40 - Zoom In 18",
+            "06:00 - Marele blond cu o gheată neagră 12"
         ]
     },
     {

@@ -528,7 +528,28 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Today's Hitlist - TOP 10",
+            "11:00 - 11 Vids we're loving right now",
+            "12:00 - Versus",
+            "12:30 - Hot + Hits",
+            "13:00 - Hitlist Romania (R)",
+            "15:00 - Hot+Hits",
+            "16:30 - Versus",
+            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
+            "17:30 - Social Media Chart",
+            "18:00 - Today's Hot Girls",
+            "19:05 - Beats and massive R'N'B Hits",
+            "20:00 - Hot + Hits",
+            "20:30 - 3 Play",
+            "20:45 - Hot+Hits",
+            "21:00 - DON'T STOP THE PARTY!",
+            "23:00 - Club Zone (R)",
+            "00:00 - DON'T STOP THE PARTY!",
+            "06:00 - Morning Mix"
+        ]
     },
     {
         "id": 29,

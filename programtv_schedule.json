@@ -498,12 +498,41 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Today's Hitlist - TOP 10",
+            "11:00 - 11 Vids we're loving right now",
+            "12:00 - Versus",
+            "12:30 - Hot + Hits",
+            "13:00 - Clubland - This week's TOP 10",
+            "13:45 - Hot+Hits",
+            "14:00 - .Ro",
+            "14:30 - Hot+Hits",
+            "16:30 - Versus",
+            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
+            "17:30 - Social Media Chart",
+            "18:00 - Today's hot girls",
+            "19:00 - Beats and massive R'N'B Hits",
+            "20:00 - Euro Top 20 (R)",
+            "22:00 - Today's Hitlist (R)",
+            "23:00 - Hip Hop Beats",
+            "00:00 - Streaming Chart (R)",
+            "01:00 - Nightshift"
+        ]
     },
     {
         "id": 29,
         "tv_channel": "KISS-TV",
-        "tv_program": []
+        "tv_program": [
+            "10:00 - Kiss Alert",
+            "13:00 - Kiss After School",
+            "16:00 - Hits For Hours",
+            "19:00 - Kiss Alert",
+            "21:00 - Big Beats",
+            "02:00 - Kiss By Night",
+            "06:00 - Rise & Kiss"
+        ]
     },
     {
         "id": 30,

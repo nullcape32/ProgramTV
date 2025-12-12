@@ -538,7 +538,28 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Today's Hitlist - TOP 10",
+            "11:00 - 11 Vids we're loving right now",
+            "12:00 - Versus",
+            "12:30 - Hot + Hits",
+            "13:00 - Hitlist Romania (R)",
+            "15:00 - Hot+Hits",
+            "16:30 - Versus",
+            "17:00 - Get fresh! - TODAY'S HOTTEST 5",
+            "17:30 - Social Media Chart",
+            "18:00 - Today's Hot Girls",
+            "19:05 - Beats and massive R'N'B Hits",
+            "20:00 - Hot + Hits",
+            "20:30 - 3 Play",
+            "20:45 - Hot+Hits",
+            "21:00 - DON'T STOP THE PARTY!",
+            "23:00 - Club Zone (R)",
+            "00:00 - DON'T STOP THE PARTY!",
+            "06:00 - Morning Mix"
+        ]
     },
     {
         "id": 29,
@@ -1356,21 +1377,22 @@
         "id": 91,
         "tv_channel": "DigiSport 2",
         "tv_program": [
-            "07:00 - Champions League: Real Madrid-Manchester City Etapa 6",
-            "09:00 - Champions League: Qarabag-Ajax Etapa 6",
-            "10:45 - Champions League: Juventus-Pafos Etapa 6",
-            "12:45 - CHampions League: Club Brugge-Arsenal Etapa 6",
-            "14:30 - Champions League: Athletic Bilbao-PSG Etapa 6",
-            "16:30 - Champions League: Real Madrid-Manchester City Etapa 6",
-            "18:30 - Champions League: Rezumate Etapa 6",
-            "19:15 - Stirile Digi Sport",
-            "19:45 - Live Europa League: Ludogorets-PAOK Etapa 6",
-            "21:45 - Stirile Digi Sport",
-            "22:00 - Live Europa League: Celtic-Roma Etapa 6",
-            "00:00 - Conference League: Universitatea Craiova-Sparta Praha Etapa 5",
-            "01:45 - Europa League: Dinamo Zagreb-Betis Etapa 5",
-            "03:30 - Europa League: Basel-Aston Villa Etapa 6",
-            "05:15 - Europa League: Celtic-Roma Etapa 6"
+            "09:00 - Europa League: Ludogorets-PAOK Etapa 6",
+            "10:45 - Europa League: Basel-Aston Villa Etapa 6",
+            "12:45 - Europa League: Celtic-Roma Etapa 6",
+            "14:30 - Conference League: Universitatea Craiova-Sparta Praha Etapa 5",
+            "16:30 - Europa League: FCSB-Feyenoord Etapa 6",
+            "18:30 - Stirile Digi Sport",
+            "18:45 - Live Handbal Handbal feminin Campionatul Mondial 2025",
+            "20:15 - Stirile Digi Sport",
+            "20:30 - Rezumate Europa League/ Conference League",
+            "21:30 - Stirile Digi Sport",
+            "21:45 - Live Handbal Handbal feminin Campionatul Mondial 2025",
+            "23:15 - Stirile Digi Sport",
+            "23:45 - Champions League: Real Madrid-Manchester City Etapa 6",
+            "01:45 - Fotbal AG",
+            "03:30 - Bundesliga: Union Berlin-Leipzig Etapa 14",
+            "05:15 - La Liga: Real Sociedad-Girona Etapa 16"
         ]
     }
 ]

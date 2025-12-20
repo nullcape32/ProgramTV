@@ -115,17 +115,15 @@
         "id": 8,
         "tv_channel": "ANTENA1",
         "tv_program": [
-            "08:00 - Neatza cu Răzvan şi Dani",
+            "09:00 - Ana, mi-ai fost scrisă în ADN",
             "12:00 - Observator",
-            "14:00 - Mireasa – Iubire mediteraneana (finala) Sezonul 12 - Episodul",
-            "17:00 - Observator",
-            "18:00 - Medicool",
+            "14:00 - Hello Chef",
+            "15:00 - Crăciun în Angel Falls",
+            "17:00 - Ajutorul lui Moș Crăciun",
             "19:00 - Observator - Sport/Meteo",
-            "20:30 - Iubire cu parfum de lavandă",
-            "23:30 - Chefi la cuțite (R)",
-            "03:00 - Observator (R)",
-            "04:00 - Ești mai deștept decât un copil de clasa a V-a?",
-            "05:00 - Medicool (R)",
+            "20:00 - Homefront: Orașul fără legi",
+            "22:00 - Max Payne",
+            "00:00 - Chefi la cuțite (R)",
             "06:00 - Observator - Sport/Meteo/IQ Financiar"
         ]
     },
@@ -525,7 +523,22 @@
     {
         "id": 28,
         "tv_channel": "MUSIC-CHANNEL",
-        "tv_program": []
+        "tv_program": [
+            "09:00 - 3 Play",
+            "09:15 - Morning Mix",
+            "10:00 - Euro Top 20",
+            "12:00 - POWER play's this week's top 10 (R)",
+            "13:00 - Hot+Hits",
+            "13:30 - Themed Weekend",
+            "18:30 - Versus",
+            "19:00 - Hot+Hits",
+            "19:30 - 3 Play",
+            "19:45 - Hot + Hits",
+            "20:00 - BEST OF",
+            "21:00 - DON'T STOP THE PARTY!",
+            "00:45 - Nightshift",
+            "06:00 - Morning Mix"
+        ]
     },
     {
         "id": 29,

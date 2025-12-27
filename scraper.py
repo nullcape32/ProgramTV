@@ -62,6 +62,8 @@ CHANNEL_URLS = {
     "DigiSport 2": {"url": "https://programtv.ro/canal-tv/digi-sport-2", "id": 91},
     "CineMax": {"url": "https://programtv.ro/canal-tv/cinemax", "id": 321},
     "CineMax2": {"url": "https://programtv.ro/canal-tv/cinemax-2", "id": 322},
+    "Viasat-Nature": {"url": "https://programtv.ro/canal-tv/viasat-nature", "id": 99935}
+    
 
 }
 

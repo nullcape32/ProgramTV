@@ -63,7 +63,8 @@ CHANNEL_URLS = {
     "CineMax": {"url": "https://programtv.ro/canal-tv/cinemax", "id": 321},
     "CineMax2": {"url": "https://programtv.ro/canal-tv/cinemax-2", "id": 322},
     "Viasat-Nature": {"url": "https://programtv.ro/canal-tv/viasat-nature", "id": 99935},
-    "HBO3": {"url": "https://programtv.ro/canal-tv/hbo-3", "id": 53872}
+    "HBO3": {"url": "https://programtv.ro/canal-tv/hbo-3", "id": 53872},
+    "CineMaraton": {"url": "https://programtv.ro/canal-tv/cinemaraton", "id": 26563}
     
 
 }
